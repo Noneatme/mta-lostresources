@@ -1,0 +1,21 @@
+<map edf:definitions="editor_main">
+    <object id="object (barrel3) (1)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-2514.4585" posY="-625.50342" posZ="132.31461" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel3) (2)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-2515.22949" posY="-624.93982" posZ="132.27534" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel3) (3)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-2514.38574" posY="-624.70154" posZ="132.2677" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel3) (4)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-2487.16724" posY="-625.04547" posZ="132.05983" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel3) (5)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-2484.98975" posY="-610.05048" posZ="132.01241" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel3) (6)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-2680.85449" posY="-281.02219" posZ="6.64385" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel3) (7)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-2792.6394" posY="178.47491" posZ="6.66357" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel3) (8)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-2323.88477" posY="-141.77449" posZ="35.03075" rotX="0" rotY="0" rotZ="40"></object>
+    <object id="object (barrel3) (9)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-2792.80859" posY="177.49707" posZ="6.66357" rotX="0" rotY="0" rotZ="39.996"></object>
+    <object id="object (barrel3) (10)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-2122.61792" posY="-80.88887" posZ="34.79638" rotX="0" rotY="0" rotZ="39.996"></object>
+    <object id="object (barrel3) (11)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-2123.03662" posY="-81.66848" posZ="34.79638" rotX="0" rotY="0" rotZ="39.996"></object>
+    <object id="object (barrel3) (12)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-2123.41333" posY="-80.92792" posZ="34.79638" rotX="0" rotY="0" rotZ="39.996"></object>
+    <object id="object (barrel3) (13)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-1228.38977" posY="48.07756" posZ="13.60843" rotX="0" rotY="0" rotZ="39.996"></object>
+    <object id="object (barrel3) (14)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-2417.03271" posY="1028.73303" posZ="49.86669" rotX="0" rotY="0" rotZ="39.996"></object>
+    <object id="object (barrel3) (15)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-2420.70239" posY="957.82971" posZ="44.77294" rotX="0" rotY="0" rotZ="39.996"></object>
+    <object id="object (barrel3) (16)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-2419.94897" posY="958.32178" posZ="44.77294" rotX="0" rotY="0" rotZ="39.996"></object>
+    <object id="object (barrel3) (17)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-2496.22144" posY="747.92145" posZ="34.65469" rotX="0" rotY="0" rotZ="39.996"></object>
+    <object id="object (barrel3) (18)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-1952.4198" posY="-741.33997" posZ="35.36695" rotX="0" rotY="0" rotZ="39.996"></object>
+    <object id="object (barrel3) (19)" interior="0" alpha="255" doublesided="false" model="1222" scale="1" dimension="0" posX="-1953.42151" posY="-741.74133" posZ="35.36695" rotX="0" rotY="0" rotZ="39.996"></object>
+</map>

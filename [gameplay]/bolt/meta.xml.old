@@ -1,0 +1,52 @@
+<meta>
+	<info author="Noneatme" type="script" version="1.0.0" />
+	
+	<!-- SERVER SIDE FILES -->
+		<!-- CLASSES -->
+		<script src="server/CBoltUsage.lua" type="server" />
+		<script src="server/CWeather.lua" type="server" />
+		<!-- OBJECT CREATOR -->
+		<script src="server/CObjectCreator.lua" type="server" />
+
+	<!-- CLIENT SIDE FILES -->
+		<!-- CLASSES -->
+		<script src="client/CEBolt.lua" type="client" cache="false"/>
+		<script src="client/CBolt.lua" type="client" cache="false" />
+		<script src="client/CBoltUsage.lua" type="client" cache="false"/>
+		<script src="client/CImport.lua" type="client" cache="false"/>
+		<script src="client/CWeather.lua" type="client" cache="false"/>
+	
+		<!-- OBJECT CREATOR -->
+		<script src="client/CObjectCreator.lua" type="client" />
+	
+	<!-- DOWNLOADABLE CONTENT -->
+		<file src="LICENSE.txt" />
+		
+		<!-- TEXTURES -->
+		<file src="files/textures/beam_crack_05.png" />
+		<file src="files/textures/beam_streak_01.png" />
+
+		
+		<file src="files/textures/groundcracks_light.png" />
+		<file src="files/textures/ground_scorch.png" />		
+		
+		
+		<!-- MODELS -->
+		<file src="files/models/overheat_car.dff" />
+		<file src="files/models/prt_smokeII_3_expand.dff" />
+		<file src="files/models/riot_smoke.dff" />
+		<file src="files/models/shootlight.dff" />
+		
+		
+		<!-- SOUNDS -->
+		<file src="files/sounds/explo1.mp3" />
+		<file src="files/sounds/explo2.mp3" />
+		<file src="files/sounds/explo3.mp3" />
+		
+		<file src="files/sounds/bold1.mp3" />
+		<file src="files/sounds/bold2.mp3" />
+		<file src="files/sounds/bold3.mp3" />
+		<file src="files/sounds/bold4.mp3" />
+		
+		<file src="files/sounds/static_field.mp3" />
+</meta>

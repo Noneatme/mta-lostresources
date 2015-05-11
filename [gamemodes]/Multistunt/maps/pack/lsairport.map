@@ -1,0 +1,2117 @@
+<map>
+
+	
+	<object name="delux object">
+		<position>1985.181152 -2565.469971 13.594204</position>
+		<rotation>-4.7124 0.0000 0.0000</rotation>
+		<model>1634</model>
+	</object>
+	
+	<object name="delux object (1)">
+		<position>1979.997192 -2565.510254 18.335501</position>
+		<rotation>-4.7124 -0.0450 -5.7132</rotation>
+		<model>1634</model>
+	</object>
+	
+	<object name="delux object (2)">
+		<position>2019.655151 -2544.967773 45.298801</position>
+		<rotation>-0.4377 0.0000 -6.2382</rotation>
+		<model>18450</model>
+	</object>
+	
+	<object name="delux object (3)">
+		<position>2024.071655 -2535.942871 48.062000</position>
+		<rotation>-0.4377 0.0000 -5.7882</rotation>
+		<model>18450</model>
+	</object>
+	
+	<object name="delux object (4)">
+		<position>2015.068848 -2554.523438 48.030399</position>
+		<rotation>-3.5793 0.0000 -5.7432</rotation>
+		<model>18450</model>
+	</object>
+	
+	<object name="delux object (5)">
+		<position>2054.332764 -2558.129639 46.693100</position>
+		<rotation>-1.9635 0.0000 0.0000</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (6)">
+		<position>2052.791016 -2561.995117 46.730999</position>
+		<rotation>-1.9635 0.0000 0.0000</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (7)">
+		<position>2051.226563 -2565.831055 46.736900</position>
+		<rotation>-1.9635 0.0000 0.0000</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (8)">
+		<position>2056.697998 -2563.589844 50.685699</position>
+		<rotation>-1.9635 0.0000 -5.7732</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (9)">
+		<position>2055.112061 -2567.411133 50.694096</position>
+		<rotation>-1.9635 0.0000 -5.7732</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (10)">
+		<position>2058.266357 -2559.758789 50.685097</position>
+		<rotation>-1.9635 0.0000 -5.7732</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (11)">
+		<position>1937.532715 -2507.657227 13.836400</position>
+		<rotation>-0.1963 0.0000 0.0000</rotation>
+		<model>1634</model>
+	</object>
+	
+	<object name="delux object (12)">
+		<position>1937.665771 -2507.008789 15.536400</position>
+		<rotation>-0.1963 0.0000 -5.8932</rotation>
+		<model>1634</model>
+	</object>
+	
+	<object name="delux object (13)">
+		<position>1938.043213 -2505.145752 18.099501</position>
+		<rotation>-0.1963 0.0000 -5.6682</rotation>
+		<model>1634</model>
+	</object>
+	
+	<object name="delux object (14)">
+		<position>1861.506714 -2616.030029 14.266100</position>
+		<rotation>-2.5525 0.0000 0.0000</rotation>
+		<model>13641</model>
+	</object>
+	
+	<object name="delux object (15)">
+		<position>1853.236084 -2622.294678 21.780704</position>
+		<rotation>-2.5075 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (16)">
+		<position>1853.255249 -2622.231689 25.631001</position>
+		<rotation>-2.5075 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (17)">
+		<position>1789.565796 -2539.483154 14.004896</position>
+		<rotation>-0.0750 0.0000 0.0000</rotation>
+		<model>13604</model>
+	</object>
+	
+	<object name="delux object (18)">
+		<position>1768.489380 -2617.451172 10.680120</position>
+		<rotation>-0.2863 -6.1482 0.0000</rotation>
+		<model>16139</model>
+	</object>
+	
+	<object name="delux object (19)">
+		<position>1755.865845 -2592.684082 11.079945</position>
+		<rotation>-3.3966 -6.1182 0.0000</rotation>
+		<model>16139</model>
+	</object>
+	
+	<object name="delux object (20)">
+		<position>1756.761841 -2604.406250 18.608500</position>
+		<rotation>0.0000 -6.1182 0.0000</rotation>
+		<model>18450</model>
+	</object>
+	
+	<object name="delux object (21)">
+		<position>1795.444824 -2611.426758 12.869900</position>
+		<rotation>-1.1781 0.0000 0.0000</rotation>
+		<model>619</model>
+	</object>
+	
+	<object name="delux object (22)">
+		<position>1796.346313 -2596.553955 12.928700</position>
+		<rotation>-6.0868 0.0000 0.0000</rotation>
+		<model>619</model>
+	</object>
+	
+	<object name="delux object (23)">
+		<position>1794.448120 -2597.888428 14.461500</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>3461</model>
+	</object>
+	
+	<object name="delux object (24)">
+		<position>1794.402588 -2610.568115 14.469100</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>3461</model>
+	</object>
+	
+	<object name="delux object (25)">
+		<position>1707.590210 -2526.634277 12.297730</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>16776</model>
+	</object>
+	
+	<object name="delux object (26)">
+		<position>1692.697510 -2529.126953 13.847200</position>
+		<rotation>-1.5708 0.0000 0.0000</rotation>
+		<model>1633</model>
+	</object>
+	
+	<object name="delux object (27)">
+		<position>1695.325684 -2529.138916 16.120501</position>
+		<rotation>-1.5708 0.0000 -5.8632</rotation>
+		<model>1633</model>
+	</object>
+	
+	<object name="delux object (28)">
+		<position>1739.348633 -2523.823975 20.716999</position>
+		<rotation>-3.3162 0.0000 0.0000</rotation>
+		<model>7392</model>
+	</object>
+	
+	<object name="delux object (29)">
+		<position>1740.048096 -2561.431396 20.992001</position>
+		<rotation>-6.2491 0.0000 0.0000</rotation>
+		<model>7392</model>
+	</object>
+	
+	<object name="delux object (30)">
+		<position>1749.195801 -2556.460449 13.157700</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>1211</model>
+	</object>
+	
+	<object name="delux object (31)">
+		<position>1743.969482 -2604.410645 26.183918</position>
+		<rotation>0.0000 -5.9832 0.0000</rotation>
+		<model>18450</model>
+	</object>
+	
+	<object name="delux object (32)">
+		<position>1979.594971 -2565.591553 25.208046</position>
+		<rotation>-4.7124 0.0000 -4.8582</rotation>
+		<model>1634</model>
+	</object>
+	
+	<object name="delux object (33)">
+		<position>1409.150757 -2457.283203 17.626297</position>
+		<rotation>-0.3600 -2.4300 0.0000</rotation>
+		<model>17310</model>
+	</object>
+	
+	<object name="delux object (34)">
+		<position>1551.912720 -2604.473877 13.521992</position>
+		<rotation>-4.7124 0.0000 0.0000</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (35)">
+		<position>1545.503296 -2604.463623 17.555511</position>
+		<rotation>-4.7124 0.0000 -5.9532</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (36)">
+		<position>1540.553345 -2604.487549 23.280512</position>
+		<rotation>-4.7124 0.0000 -5.6832</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (37)">
+		<position>1537.658691 -2604.484131 30.752773</position>
+		<rotation>-4.7124 0.0000 -5.2782</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (38)">
+		<position>1764.567017 -2458.463379 13.554804</position>
+		<rotation>-5.4978 0.0000 0.0000</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (39)">
+		<position>1760.144409 -2454.052979 17.142418</position>
+		<rotation>-5.4978 0.0000 -6.0282</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (40)">
+		<position>2029.526855 -2617.995850 13.597723</position>
+		<rotation>-4.7124 0.0000 0.0000</rotation>
+		<model>13590</model>
+	</object>
+	
+	<object name="delux object (41)">
+		<position>2037.121948 -2571.347900 14.040852</position>
+		<rotation>-0.5890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (42)">
+		<position>2037.107910 -2571.356201 16.904274</position>
+		<rotation>-0.5890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (43)">
+		<position>2037.098267 -2571.371582 19.796303</position>
+		<rotation>-0.5890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (44)">
+		<position>2037.059937 -2571.353271 22.721304</position>
+		<rotation>-0.5890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (45)">
+		<position>2039.160645 -2568.163086 14.002875</position>
+		<rotation>-0.5890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (46)">
+		<position>2047.721191 -2557.629150 13.940853</position>
+		<rotation>-0.5890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (47)">
+		<position>2045.596191 -2560.745850 13.960550</position>
+		<rotation>-0.5890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (48)">
+		<position>2047.789429 -2557.678711 16.885536</position>
+		<rotation>-0.5890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (49)">
+		<position>2045.791504 -2560.585205 19.830780</position>
+		<rotation>-0.5890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (50)">
+		<position>2047.724609 -2557.669922 19.817831</position>
+		<rotation>-0.5890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (51)">
+		<position>2045.767822 -2560.575195 22.555784</position>
+		<rotation>-0.5890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (52)">
+		<position>2045.678101 -2560.510742 25.399334</position>
+		<rotation>-0.5890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (53)">
+		<position>2047.469727 -2557.428223 25.390675</position>
+		<rotation>-0.5890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (54)">
+		<position>2036.936890 -2571.275391 25.481167</position>
+		<rotation>-0.5890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (55)">
+		<position>2061.021240 -2552.388916 14.040852</position>
+		<rotation>-0.8890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (56)">
+		<position>2061.996582 -2551.498291 16.715834</position>
+		<rotation>-0.8890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (57)">
+		<position>2062.743652 -2550.771973 19.040852</position>
+		<rotation>-0.8890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (58)">
+		<position>2063.507324 -2550.114014 21.423914</position>
+		<rotation>-0.8890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (59)">
+		<position>2064.166260 -2549.542236 24.122515</position>
+		<rotation>-0.8890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (60)">
+		<position>2067.224365 -2547.060791 24.136555</position>
+		<rotation>-0.8890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (61)">
+		<position>2068.016846 -2546.370850 21.430183</position>
+		<rotation>-0.8890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (62)">
+		<position>2068.750977 -2545.778809 18.962706</position>
+		<rotation>-0.8890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (63)">
+		<position>2069.418457 -2545.215576 15.993019</position>
+		<rotation>-0.8890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (64)">
+		<position>2070.388672 -2544.448730 13.540859</position>
+		<rotation>-0.8890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (65)">
+		<position>2065.678223 -2548.276367 19.022655</position>
+		<rotation>-0.8890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (66)">
+		<position>2081.022217 -2541.935303 13.915854</position>
+		<rotation>-1.0540 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (67)">
+		<position>2080.996582 -2541.903320 16.615858</position>
+		<rotation>-1.0540 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (68)">
+		<position>2081.023193 -2541.879150 19.269239</position>
+		<rotation>-1.0540 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (69)">
+		<position>2081.024414 -2541.802734 22.243423</position>
+		<rotation>-1.0540 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (70)">
+		<position>2080.976563 -2541.741455 24.272045</position>
+		<rotation>-1.0540 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (71)">
+		<position>2092.416016 -2540.966309 14.040852</position>
+		<rotation>-1.2940 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (72)">
+		<position>2092.373779 -2540.810303 16.815855</position>
+		<rotation>-1.2940 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (73)">
+		<position>2092.376221 -2540.789795 19.656393</position>
+		<rotation>-1.2940 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (74)">
+		<position>2092.373779 -2540.767822 22.190948</position>
+		<rotation>-1.2940 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (75)">
+		<position>2092.345947 -2540.792725 24.265888</position>
+		<rotation>-1.2940 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (76)">
+		<position>2095.485596 -2539.797119 24.242163</position>
+		<rotation>-1.2940 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (77)">
+		<position>2097.965576 -2539.100586 24.244492</position>
+		<rotation>-1.2940 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (78)">
+		<position>2097.947510 -2539.029541 21.752884</position>
+		<rotation>-1.2940 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (79)">
+		<position>2095.641846 -2539.822754 18.373066</position>
+		<rotation>-1.2940 0.0000 -5.5932</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (80)">
+		<position>2097.458008 -2539.148926 20.123484</position>
+		<rotation>-1.2940 0.0000 -5.5932</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (81)">
+		<position>2095.643311 -2539.884521 15.390850</position>
+		<rotation>-1.2940 -6.2682 -3.5982</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (82)">
+		<position>2098.665283 -2538.853027 13.845953</position>
+		<rotation>-1.2940 -6.2682 -3.5982</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (83)">
+		<position>1922.064575 -2616.420410 14.533843</position>
+		<rotation>-0.0150 0.0000 0.0000</rotation>
+		<model>7980</model>
+	</object>
+	
+	<object name="delux object (84)">
+		<position>2132.228516 -2538.562500 34.559380</position>
+		<rotation>-4.6782 0.0000 0.0000</rotation>
+		<model>1378</model>
+	</object>
+	
+	<object name="delux object (85)">
+		<position>1522.161377 -2622.247559 14.471995</position>
+		<rotation>-3.1500 0.0000 -6.1032</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (86)">
+		<position>2044.691406 -2596.241943 17.235901</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>3287</model>
+	</object>
+	
+	<object name="delux object (87)">
+		<position>2053.240723 -2596.297119 17.091101</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>3287</model>
+	</object>
+	
+	<object name="delux object (88)">
+		<position>1976.277466 -2644.833740 14.413200</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>6928</model>
+	</object>
+	
+	<object name="delux object (89)">
+		<position>2061.339844 -2597.901611 13.408100</position>
+		<rotation>-4.7250 0.0000 -6.1032</rotation>
+		<model>13593</model>
+	</object>
+	
+	<object name="delux object (90)">
+		<position>1409.492188 -2593.011719 21.642500</position>
+		<rotation>-0.0900 0.0000 -1.5000</rotation>
+		<model>13592</model>
+	</object>
+	
+	<object name="delux object (91)">
+		<position>1408.378052 -2593.435791 28.767500</position>
+		<rotation>-0.0900 0.0000 -1.5000</rotation>
+		<model>13592</model>
+	</object>
+	
+	<object name="delux object (92)">
+		<position>1407.353760 -2593.805908 35.342499</position>
+		<rotation>-0.0900 0.0000 -1.5000</rotation>
+		<model>13592</model>
+	</object>
+	
+	<object name="delux object (93)">
+		<position>1406.208740 -2594.205566 42.596401</position>
+		<rotation>-0.0900 0.0000 -1.5000</rotation>
+		<model>13592</model>
+	</object>
+	
+	<object name="delux object (94)">
+		<position>1405.101196 -2594.613525 49.859001</position>
+		<rotation>-0.0900 0.0000 -1.5000</rotation>
+		<model>13592</model>
+	</object>
+	
+	<object name="delux object (95)">
+		<position>1403.980103 -2595.031250 57.111500</position>
+		<rotation>-0.0900 0.0000 -1.5000</rotation>
+		<model>13592</model>
+	</object>
+	
+	<object name="delux object (96)">
+		<position>1394.803345 -2603.250000 66.831802</position>
+		<rotation>-4.8132 -4.7832 -0.0300</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (97)">
+		<position>1415.949341 -2601.727783 14.197000</position>
+		<rotation>-4.0632 -5.7732 -6.1032</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (98)">
+		<position>1827.548218 -2381.769775 24.222799</position>
+		<rotation>-1.2150 -5.9682 -6.2682</rotation>
+		<model>18450</model>
+	</object>
+	
+	<object name="delux object (99)">
+		<position>1801.248779 -2312.205078 48.444302</position>
+		<rotation>-1.2150 -5.9682 -6.2682</rotation>
+		<model>18450</model>
+	</object>
+	
+	<object name="delux object (100)">
+		<position>1754.596436 -2267.727295 61.259399</position>
+		<rotation>-4.3632 0.0000 0.0000</rotation>
+		<model>8420</model>
+	</object>
+	
+	<object name="delux object (101)">
+		<position>1752.635742 -2308.737061 63.115398</position>
+		<rotation>-3.2850 0.0000 -6.0882</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (102)">
+		<position>1786.846924 -2274.841309 66.719398</position>
+		<rotation>-5.9382 0.0000 0.0000</rotation>
+		<model>3749</model>
+	</object>
+	
+	<object name="delux object (103)">
+		<position>1653.458008 -2595.797852 14.655606</position>
+		<rotation>-1.5750 0.0000 0.0000</rotation>
+		<model>17565</model>
+	</object>
+	
+	<object name="delux object (104)">
+		<position>1765.062012 -2235.102783 61.931198</position>
+		<rotation>-5.9082 0.0000 0.0000</rotation>
+		<model>13640</model>
+	</object>
+	
+	<object name="delux object (105)">
+		<position>1744.021851 -2243.576904 62.231201</position>
+		<rotation>-5.9082 0.0000 0.0000</rotation>
+		<model>13640</model>
+	</object>
+	
+	<object name="delux object (106)">
+		<position>1698.682617 -2288.073486 61.065201</position>
+		<rotation>-1.2300 0.0000 0.0000</rotation>
+		<model>8420</model>
+	</object>
+	
+	<object name="delux object (107)">
+		<position>1698.970215 -2285.436279 61.037800</position>
+		<rotation>-5.9232 0.0000 0.0000</rotation>
+		<model>13647</model>
+	</object>
+	
+	<object name="delux object (108)">
+		<position>1735.095215 -2272.055176 61.031898</position>
+		<rotation>-4.3632 0.0000 0.0000</rotation>
+		<model>13648</model>
+	</object>
+	
+	<object name="delux object (109)">
+		<position>1661.489258 -2274.046387 66.080200</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>16304</model>
+	</object>
+	
+	<object name="delux object (110)">
+		<position>1711.534180 -2316.452393 63.564201</position>
+		<rotation>-4.3782 0.0000 0.0000</rotation>
+		<model>13638</model>
+	</object>
+	
+	<object name="delux object (111)">
+		<position>1706.535767 -2254.115967 63.322201</position>
+		<rotation>-5.9514 0.0000 0.0000</rotation>
+		<model>13636</model>
+	</object>
+	
+	<object name="delux object (112)">
+		<position>1379.274292 -2561.021484 69.816498</position>
+		<rotation>-0.0600 0.0000 0.0000</rotation>
+		<model>11395</model>
+	</object>
+	
+	<object name="delux object (113)">
+		<position>1819.901489 -2568.908691 22.092501</position>
+		<rotation>-4.5432 -6.2532 -0.0000</rotation>
+		<model>13592</model>
+	</object>
+	
+	<object name="delux object (114)">
+		<position>1813.126465 -2569.135010 22.067499</position>
+		<rotation>-4.5432 -6.2532 -0.0000</rotation>
+		<model>13592</model>
+	</object>
+	
+	<object name="delux object (115)">
+		<position>1806.329834 -2569.268311 22.017500</position>
+		<rotation>-4.5432 -6.2532 -0.0000</rotation>
+		<model>13592</model>
+	</object>
+	
+	<object name="delux object (116)">
+		<position>1799.560303 -2569.428711 22.017500</position>
+		<rotation>-4.5432 -6.2532 -0.0000</rotation>
+		<model>13592</model>
+	</object>
+	
+	<object name="delux object (117)">
+		<position>1795.904297 -2565.658691 14.372000</position>
+		<rotation>-6.2232 0.0000 -6.1032</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (118)">
+		<position>1402.684692 -2660.955322 13.525000</position>
+		<rotation>-0.3450 0.0000 0.0000</rotation>
+		<model>1634</model>
+	</object>
+	
+	<object name="delux object (119)">
+		<position>1347.787964 -2551.638428 13.422300</position>
+		<rotation>-1.5450 0.0000 0.0000</rotation>
+		<model>1634</model>
+	</object>
+	
+	<object name="delux object (120)">
+		<position>1395.774780 -2431.324951 28.960100</position>
+		<rotation>-1.5600 0.0000 0.0000</rotation>
+		<model>8391</model>
+	</object>
+	
+	<object name="delux object (121)">
+		<position>1385.604248 -2422.687500 14.254801</position>
+		<rotation>-4.7682 0.0000 -6.1332</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (122)">
+		<position>1365.349487 -2453.858398 48.652100</position>
+		<rotation>-3.0582 0.0000 -6.0432</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (123)">
+		<position>1427.353271 -2408.754883 48.602093</position>
+		<rotation>-1.5282 -6.2682 -6.0432</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (124)">
+		<position>1905.370728 -2250.657959 62.393398</position>
+		<rotation>-4.7250 0.0000 0.0000</rotation>
+		<model>10948</model>
+	</object>
+	
+	<object name="delux object (125)">
+		<position>1947.194702 -2290.480957 32.918701</position>
+		<rotation>-3.9582 -0.8250 -4.8732</rotation>
+		<model>5001</model>
+	</object>
+	
+	<object name="delux object (126)">
+		<position>1951.494751 -2272.379639 13.058600</position>
+		<rotation>-0.0450 -0.0300 -0.0900</rotation>
+		<model>1633</model>
+	</object>
+	
+	<object name="delux object (127)">
+		<position>1890.504761 -2273.584473 59.199799</position>
+		<rotation>-4.7532 0.0000 -5.9982</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (128)">
+		<position>1886.002808 -2273.401855 65.116798</position>
+		<rotation>-4.7532 0.0000 -5.5482</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (129)">
+		<position>1884.591309 -2273.360352 71.989304</position>
+		<rotation>-4.7532 0.0000 -5.0982</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (130)">
+		<position>1885.802490 -2273.252441 79.782898</position>
+		<rotation>-4.6332 0.0000 -4.7832</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (131)">
+		<position>1911.164917 -2211.925537 83.174797</position>
+		<rotation>-6.2532 0.0000 -5.9982</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (132)">
+		<position>1911.111450 -2207.342529 89.172302</position>
+		<rotation>-6.2532 0.0000 -5.5482</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (133)">
+		<position>1911.143066 -2205.306152 96.662498</position>
+		<rotation>-0.0300 0.0000 -5.2032</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (134)">
+		<position>1847.484131 -2245.543701 105.724800</position>
+		<rotation>-4.4550 0.0000 0.0000</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (135)">
+		<position>1704.099854 -2331.697266 71.681999</position>
+		<rotation>-4.3782 0.0000 0.0000</rotation>
+		<model>13638</model>
+	</object>
+	
+	<object name="delux object (136)">
+		<position>1402.820923 -2595.449707 64.366898</position>
+		<rotation>-0.0900 0.0000 -1.5000</rotation>
+		<model>13592</model>
+	</object>
+	
+	<object name="delux object (137)">
+		<position>1378.957764 -2579.281250 26.275478</position>
+		<rotation>-1.4250 0.0000 0.0000</rotation>
+		<model>4113</model>
+	</object>
+	
+	<object name="delux object (138)">
+		<position>1886.183350 -2195.461182 103.239502</position>
+		<rotation>-1.5750 0.0000 0.0000</rotation>
+		<model>1684</model>
+	</object>
+	
+	<object name="delux object (139)">
+		<position>1886.146973 -2205.505859 103.239502</position>
+		<rotation>-1.5750 0.0000 0.0000</rotation>
+		<model>1684</model>
+	</object>
+	
+	<object name="delux object (140)">
+		<position>1886.100830 -2215.551270 103.245300</position>
+		<rotation>-1.5750 0.0000 0.0000</rotation>
+		<model>1684</model>
+	</object>
+	
+	<object name="delux object (141)">
+		<position>1688.669312 -2333.504883 79.768501</position>
+		<rotation>-5.9532 0.0000 0.0000</rotation>
+		<model>13638</model>
+	</object>
+	
+	<object name="delux object (142)">
+		<position>1977.467407 -2628.285889 49.440125</position>
+		<rotation>-4.7382 -6.1782 0.0000</rotation>
+		<model>7073</model>
+	</object>
+	
+	<object name="delux object (143)">
+		<position>2045.721436 -2638.500488 21.983400</position>
+		<rotation>-3.1350 0.0000 0.0000</rotation>
+		<model>13722</model>
+	</object>
+	
+	<object name="delux object (144)">
+		<position>2045.705200 -2638.513428 21.963200</position>
+		<rotation>-3.1350 0.0000 0.0000</rotation>
+		<model>13831</model>
+	</object>
+	
+	<object name="delux object (145)">
+		<position>2139.728271 -2489.103516 28.611601</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>1267</model>
+	</object>
+	
+	<object name="delux object (146)">
+		<position>2111.718994 -2493.414307 14.497309</position>
+		<rotation>-3.0582 0.0000 0.0000</rotation>
+		<model>6066</model>
+	</object>
+	
+	<object name="delux object (147)">
+		<position>2105.789795 -2493.889404 13.689200</position>
+		<rotation>-1.4850 0.0000 -6.2382</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (148)">
+		<position>2095.310059 -2638.382568 20.532301</position>
+		<rotation>-1.3500 0.0000 0.0000</rotation>
+		<model>9237</model>
+	</object>
+	
+	<object name="delux object (149)">
+		<position>1392.424683 -2560.342041 63.170895</position>
+		<rotation>-0.6000 0.0000 -6.2082</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (150)">
+		<position>1439.064697 -2496.987061 2.429701</position>
+		<rotation>-1.5750 0.0000 -0.5400</rotation>
+		<model>11111</model>
+	</object>
+	
+	<object name="delux object (151)">
+		<position>2036.934326 -2373.857666 36.613098</position>
+		<rotation>-0.8250 0.0000 0.0000</rotation>
+		<model>1378</model>
+	</object>
+	
+	<object name="delux object (152)">
+		<position>1983.898193 -2421.146729 13.847000</position>
+		<rotation>-0.8568 0.0000 -6.2082</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (153)">
+		<position>1981.232300 -2418.039795 13.847000</position>
+		<rotation>-0.8568 0.0000 -6.2082</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (154)">
+		<position>1985.701904 -2416.703369 17.115000</position>
+		<rotation>-0.8550 0.0000 -5.7582</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (155)">
+		<position>2020.638306 -2389.098145 44.242699</position>
+		<rotation>-0.8568 0.0000 -5.8782</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (156)">
+		<position>1508.350586 -2495.192871 21.775330</position>
+		<rotation>-6.1548 -6.2532 -0.0000</rotation>
+		<model>13592</model>
+	</object>
+	
+	<object name="delux object (157)">
+		<position>1798.069092 -2434.893066 13.504797</position>
+		<rotation>-5.1187 0.0000 0.0000</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (158)">
+		<position>2062.030273 -2622.842041 13.471992</position>
+		<rotation>-4.3185 -0.0150 0.0000</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (159)">
+		<position>2059.226074 -2624.040283 16.196993</position>
+		<rotation>-4.3185 -0.0150 -5.8482</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (160)">
+		<position>1894.168457 -2547.338867 13.546991</position>
+		<rotation>-4.7124 0.0000 0.0000</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (161)">
+		<position>1894.168457 -2538.588867 13.546991</position>
+		<rotation>-4.7124 0.0000 0.0000</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (162)">
+		<position>1874.907959 -2538.650879 13.646990</position>
+		<rotation>-1.5708 0.0000 0.0000</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (163)">
+		<position>1874.907959 -2547.900879 13.646990</position>
+		<rotation>-1.5708 0.0000 0.0000</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (164)">
+		<position>1887.571167 -2539.274170 12.952630</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>1225</model>
+	</object>
+	
+	<object name="delux object (165)">
+		<position>1887.189209 -2536.926025 12.952630</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>1225</model>
+	</object>
+	
+	<object name="delux object (166)">
+		<position>1881.664795 -2536.705322 12.952630</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>1225</model>
+	</object>
+	
+	<object name="delux object (167)">
+		<position>1881.636963 -2539.611328 12.952630</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>1225</model>
+	</object>
+	
+	<object name="delux object (168)">
+		<position>1886.636963 -2546.861328 12.952630</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>1225</model>
+	</object>
+	
+	<object name="delux object (169)">
+		<position>1886.636963 -2549.361328 12.952630</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>1225</model>
+	</object>
+	
+	<object name="delux object (170)">
+		<position>1880.636963 -2548.361328 12.952630</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>1225</model>
+	</object>
+	
+	<object name="delux object (171)">
+		<position>1882.386963 -2546.111328 12.952630</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>1225</model>
+	</object>
+	
+	<object name="delux object (172)">
+		<position>1882.386963 -2549.861328 12.952630</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>1225</model>
+	</object>
+	
+	<object name="delux object (173)">
+		<position>1834.822754 -2543.000732 13.846987</position>
+		<rotation>-4.7124 0.0000 0.0000</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (174)">
+		<position>1831.847290 -2543.000732 15.446981</position>
+		<rotation>-4.7124 0.0000 -6.1482</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (175)">
+		<position>1827.347290 -2543.000732 18.721954</position>
+		<rotation>-4.7124 0.0000 -5.9532</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (176)">
+		<position>1825.397095 -2543.000732 20.696951</position>
+		<rotation>-4.7124 0.0000 -5.8332</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (177)">
+		<position>1822.021729 -2543.000732 25.146936</position>
+		<rotation>-4.7124 0.0000 -5.6682</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (178)">
+		<position>1662.840210 -2547.387207 13.471992</position>
+		<rotation>-4.7110 0.0000 -6.2682</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (179)">
+		<position>1662.756958 -2538.522217 13.471992</position>
+		<rotation>-4.7110 0.0000 -6.2682</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (180)">
+		<position>1765.612671 -2543.646484 38.633293</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>18450</model>
+	</object>
+	
+	<object name="delux object (181)">
+		<position>1708.590576 -2543.608154 38.690025</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>18450</model>
+	</object>
+	
+	<object name="delux object (182)">
+		<position>1615.420776 -2544.013428 51.936661</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>18450</model>
+	</object>
+	
+	<object name="delux object (183)">
+		<position>1542.543091 -2544.023438 51.933403</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>18449</model>
+	</object>
+	
+	<object name="delux object (184)">
+		<position>1575.171387 -2544.156738 54.557465</position>
+		<rotation>-6.0582 0.0000 0.0000</rotation>
+		<model>13666</model>
+	</object>
+	
+	<object name="delux object (185)">
+		<position>1562.421387 -2544.156738 54.557465</position>
+		<rotation>-6.0582 0.0000 0.0000</rotation>
+		<model>13666</model>
+	</object>
+	
+	<object name="delux object (186)">
+		<position>1550.171387 -2544.156738 54.557465</position>
+		<rotation>-6.0582 0.0000 0.0000</rotation>
+		<model>13666</model>
+	</object>
+	
+	<object name="delux object (187)">
+		<position>1538.421387 -2544.156738 54.557465</position>
+		<rotation>-6.0582 0.0000 0.0000</rotation>
+		<model>13666</model>
+	</object>
+	
+	<object name="delux object (188)">
+		<position>1501.518799 -2546.135986 52.665535</position>
+		<rotation>-4.7287 0.0000 0.0000</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (189)">
+		<position>1501.569580 -2542.065186 52.665535</position>
+		<rotation>-4.7137 0.0000 0.0000</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (190)">
+		<position>1688.343140 -2544.022705 40.008869</position>
+		<rotation>-4.7082 0.0000 0.0000</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (191)">
+		<position>1683.093140 -2544.022705 43.258869</position>
+		<rotation>-4.7082 0.0000 -5.9832</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (192)">
+		<position>1776.008667 -2491.739746 14.563401</position>
+		<rotation>-4.7082 0.0000 0.0000</rotation>
+		<model>17565</model>
+	</object>
+	
+	<object name="delux object (193)">
+		<position>1953.082642 -2657.010010 26.496246</position>
+		<rotation>-4.7232 0.0000 0.0000</rotation>
+		<model>5126</model>
+	</object>
+	
+	<object name="delux object (194)">
+		<position>1953.600464 -2612.573486 13.346987</position>
+		<rotation>-3.1689 0.0000 0.0000</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (195)">
+		<position>1953.475342 -2616.899170 15.846987</position>
+		<rotation>-3.1689 0.0000 -6.0432</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (196)">
+		<position>1576.564697 -2536.968750 52.056770</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>619</model>
+	</object>
+	
+	<object name="delux object (197)">
+		<position>1555.989624 -2536.819336 52.056770</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>619</model>
+	</object>
+	
+	<object name="delux object (198)">
+		<position>1539.490112 -2536.968750 52.056770</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>619</model>
+	</object>
+	
+	<object name="delux object (199)">
+		<position>1492.271851 -2426.578613 13.854799</position>
+		<rotation>-1.2094 0.0000 -6.1482</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (200)">
+		<position>1794.369141 -2433.293457 15.754797</position>
+		<rotation>-5.1187 0.0000 -6.0432</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (201)">
+		<position>1392.590088 -2545.967041 9.791678</position>
+		<rotation>-4.3632 0.0000 0.0000</rotation>
+		<model>3110</model>
+	</object>
+	
+	<object name="delux object (202)">
+		<position>2095.244873 -2637.474121 14.153080</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>7388</model>
+	</object>
+	
+	<object name="delux object (203)">
+		<position>1379.447632 -2422.558350 19.575186</position>
+		<rotation>-4.7682 0.0000 -5.8332</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (204)">
+		<position>1374.930664 -2422.481201 26.484589</position>
+		<rotation>-4.7382 0.0000 -5.5482</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (205)">
+		<position>1372.765381 -2422.544189 34.767113</position>
+		<rotation>-4.7382 0.0000 -5.1732</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (206)">
+		<position>1373.813599 -2422.537354 43.054920</position>
+		<rotation>-4.7232 0.0000 -4.8282</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (207)">
+		<position>1389.273682 -2496.774902 32.758064</position>
+		<rotation>-1.5750 0.0000 -0.5550</rotation>
+		<model>11111</model>
+	</object>
+	
+	<object name="delux object (208)">
+		<position>1340.121338 -2496.681152 62.821762</position>
+		<rotation>-1.5750 0.0000 -0.5400</rotation>
+		<model>11111</model>
+	</object>
+	
+	<object name="delux object (209)">
+		<position>1289.727295 -2496.479492 93.145531</position>
+		<rotation>-1.5750 0.0000 -0.5400</rotation>
+		<model>11111</model>
+	</object>
+	
+	<object name="delux object (210)">
+		<position>1234.095703 -2496.261963 110.268219</position>
+		<rotation>-1.5750 0.0000 -0.0600</rotation>
+		<model>11111</model>
+	</object>
+	
+	<object name="delux object (211)">
+		<position>1446.980225 -2497.020752 5.165510</position>
+		<rotation>-1.5750 0.0000 -0.3150</rotation>
+		<model>11111</model>
+	</object>
+	
+	<object name="delux object (212)">
+		<position>1406.056396 -2497.214111 20.773096</position>
+		<rotation>-1.5708 0.0000 -0.6900</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (213)">
+		<position>1414.655884 -2497.229736 19.542337</position>
+		<rotation>-1.5708 0.0000 -0.4050</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (214)">
+		<position>1422.737915 -2497.247070 20.700184</position>
+		<rotation>-1.5708 0.0000 -0.1050</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (215)">
+		<position>1430.378906 -2497.256104 24.182434</position>
+		<rotation>-1.5708 0.0000 -6.0882</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (216)">
+		<position>1436.718384 -2497.261475 29.718729</position>
+		<rotation>-1.5708 0.0000 -5.8332</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (217)">
+		<position>2035.861206 -2597.869873 13.289734</position>
+		<rotation>-1.5834 0.0000 -6.1032</rotation>
+		<model>13593</model>
+	</object>
+	
+	<object name="delux object (218)">
+		<position>2021.954224 -2493.836182 13.614233</position>
+		<rotation>-1.5708 0.0000 0.0000</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (219)">
+		<position>2029.256348 -2493.833008 17.899996</position>
+		<rotation>-1.5708 0.0000 -6.0132</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (220)">
+		<position>2035.230469 -2493.845947 23.848019</position>
+		<rotation>-1.5708 0.0000 -5.7732</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (221)">
+		<position>2039.502197 -2493.850342 31.013893</position>
+		<rotation>-1.5708 0.0000 -5.5182</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (222)">
+		<position>2041.885376 -2493.854004 39.182938</position>
+		<rotation>-1.5708 0.0000 -5.2632</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (223)">
+		<position>2041.915161 -2493.836914 47.739292</position>
+		<rotation>-1.5708 0.0000 -4.9632</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (224)">
+		<position>2039.614014 -2493.843262 55.991428</position>
+		<rotation>-1.5708 0.0000 -4.7082</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (225)">
+		<position>2035.338745 -2493.848877 63.221203</position>
+		<rotation>-1.5708 0.0000 -4.4382</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (226)">
+		<position>1977.046875 -2614.947266 13.471994</position>
+		<rotation>-3.1689 0.0000 0.0000</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (227)">
+		<position>1976.876831 -2621.244873 17.272957</position>
+		<rotation>-3.1689 0.0000 -5.9832</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (228)">
+		<position>1976.746704 -2626.148926 22.887352</position>
+		<rotation>-3.1689 0.0000 -5.6682</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (229)">
+		<position>1976.671143 -2629.200439 30.078264</position>
+		<rotation>-3.1689 0.0000 -5.3532</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (230)">
+		<position>1976.646729 -2629.963623 37.470280</position>
+		<rotation>-3.1689 0.0000 -5.0682</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (231)">
+		<position>1858.234741 -2618.424316 16.110140</position>
+		<rotation>-2.5525 -0.2850 0.0000</rotation>
+		<model>13641</model>
+	</object>
+	
+	<object name="delux object (232)">
+		<position>1702.427368 -2317.529541 63.564178</position>
+		<rotation>-2.8032 0.0000 0.0000</rotation>
+		<model>13638</model>
+	</object>
+	
+	<object name="delux object (233)">
+		<position>2037.066528 -2571.338135 13.986930</position>
+		<rotation>-0.5890 0.0000 0.0000</rotation>
+		<model>3374</model>
+	</object>
+	
+	<object name="delux object (234)">
+		<position>1980.099487 -2526.428467 13.946930</position>
+		<rotation>-0.4350 -2.7450 0.0000</rotation>
+		<model>17310</model>
+	</object>
+	
+	<object name="delux object (235)">
+		<position>1966.822266 -2520.647461 31.366039</position>
+		<rotation>-3.5232 -4.6050 -0.0300</rotation>
+		<model>17310</model>
+	</object>
+	
+	<object name="delux object (236)">
+		<position>2015.691772 -2493.938477 35.535446</position>
+		<rotation>-1.5450 0.0000 0.0000</rotation>
+		<model>8620</model>
+	</object>
+	
+	<object name="delux object (237)">
+		<position>1791.527222 -2569.648438 51.754890</position>
+		<rotation>-4.6782 0.0000 0.0000</rotation>
+		<model>8493</model>
+	</object>
+	
+	<object name="delux object (238)">
+		<position>1547.767090 -2544.937256 14.546875</position>
+		<rotation>-3.1375 -0.0300 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (239)">
+		<position>1528.716431 -2545.708252 14.460798</position>
+		<rotation>-3.1129 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (240)">
+		<position>1507.486938 -2546.060547 14.546875</position>
+		<rotation>-3.1279 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (241)">
+		<position>1480.463013 -2546.864258 14.546875</position>
+		<rotation>-3.1129 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (242)">
+		<position>1994.783203 -2595.231689 14.796875</position>
+		<rotation>-3.0979 -6.2532 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (243)">
+		<position>1929.030518 -2594.497559 14.546875</position>
+		<rotation>-3.1729 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (244)">
+		<position>1961.152344 -2594.352783 14.546874</position>
+		<rotation>-3.1279 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (245)">
+		<position>2014.654785 -2595.318115 14.546875</position>
+		<rotation>-3.1429 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (246)">
+		<position>2063.561523 -2564.686035 12.545872</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>676</model>
+	</object>
+	
+	<object name="delux object (247)">
+		<position>2077.379639 -2549.751709 12.545872</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>676</model>
+	</object>
+	
+	<object name="delux object (248)">
+		<position>1746.534668 -2596.528320 25.987368</position>
+		<rotation>-4.7082 0.0000 -5.9982</rotation>
+		<model>16061</model>
+	</object>
+	
+	<object name="delux object (249)">
+		<position>1747.775513 -2612.602051 25.500410</position>
+		<rotation>-4.7082 0.0000 -5.9982</rotation>
+		<model>16061</model>
+	</object>
+	
+	<object name="delux object (250)">
+		<position>1642.793579 -2538.817871 14.046984</position>
+		<rotation>-1.5610 0.0000 -6.1932</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (251)">
+		<position>1706.671509 -2608.704834 37.556595</position>
+		<rotation>-4.7082 0.0000 -0.0150</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (252)">
+		<position>1706.628540 -2600.241943 37.564457</position>
+		<rotation>-4.7082 0.0000 -0.0150</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (253)">
+		<position>1610.417969 -2493.228760 10.155575</position>
+		<rotation>-6.2532 0.0000 0.0000</rotation>
+		<model>16776</model>
+	</object>
+	
+	<object name="delux object (254)">
+		<position>1628.831665 -2494.308594 10.655537</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>16776</model>
+	</object>
+	
+	<object name="delux object (255)">
+		<position>2023.832153 -2472.422852 12.234304</position>
+		<rotation>-4.7082 0.0000 0.0000</rotation>
+		<model>16061</model>
+	</object>
+	
+	<object name="delux object (256)">
+		<position>1388.683472 -2497.827148 12.546875</position>
+		<rotation>-3.2532 0.0000 0.0000</rotation>
+		<model>16061</model>
+	</object>
+	
+	<object name="delux object (257)">
+		<position>1593.863037 -2627.960449 12.546875</position>
+		<rotation>-4.7832 -6.2232 0.0000</rotation>
+		<model>16061</model>
+	</object>
+	
+	<object name="delux object (258)">
+		<position>1661.192505 -2627.212646 11.384298</position>
+		<rotation>-4.6932 0.0000 0.0000</rotation>
+		<model>16061</model>
+	</object>
+	
+	<object name="delux object (259)">
+		<position>1892.286011 -2515.380615 12.134298</position>
+		<rotation>-4.7082 0.0000 0.0000</rotation>
+		<model>16061</model>
+	</object>
+	
+	<object name="delux object (260)">
+		<position>1425.060913 -2633.519775 12.134298</position>
+		<rotation>-4.7832 -6.2232 0.0000</rotation>
+		<model>16061</model>
+	</object>
+	
+	<object name="delux object (261)">
+		<position>1471.259521 -2410.683838 12.317120</position>
+		<rotation>-1.5900 0.0000 -6.2682</rotation>
+		<model>16061</model>
+	</object>
+	
+	<object name="delux object (262)">
+		<position>1568.072998 -2395.581787 11.892111</position>
+		<rotation>-4.7832 -6.2232 0.0000</rotation>
+		<model>16061</model>
+	</object>
+	
+	<object name="delux object (263)">
+		<position>1642.782715 -2395.143311 11.592115</position>
+		<rotation>-4.7382 -6.2232 0.0000</rotation>
+		<model>16061</model>
+	</object>
+	
+	<object name="delux object (264)">
+		<position>1723.977783 -2396.484863 12.642113</position>
+		<rotation>-4.6032 -6.2232 0.0000</rotation>
+		<model>16061</model>
+	</object>
+	
+	<object name="delux object (265)">
+		<position>1997.792969 -2315.867188 12.459309</position>
+		<rotation>-6.2382 0.0000 0.0000</rotation>
+		<model>16061</model>
+	</object>
+	
+	<object name="delux object (266)">
+		<position>1647.350830 -2507.430908 13.504799</position>
+		<rotation>-4.7082 0.0000 -6.1782</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (267)">
+		<position>1647.322754 -2503.301270 13.510681</position>
+		<rotation>-4.7082 0.0000 -6.1782</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (268)">
+		<position>1647.356079 -2499.275635 13.504801</position>
+		<rotation>-4.7382 0.0000 -6.1782</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (269)">
+		<position>1647.510498 -2495.151611 13.507164</position>
+		<rotation>-4.7382 0.0000 -6.1782</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (270)">
+		<position>1647.609619 -2490.996826 13.518862</position>
+		<rotation>-4.7382 0.0000 -6.1782</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (271)">
+		<position>1647.692017 -2486.996582 13.529804</position>
+		<rotation>-4.7382 0.0000 -6.1782</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (272)">
+		<position>1647.785889 -2482.885498 13.554804</position>
+		<rotation>-4.7382 0.0000 -6.1782</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (273)">
+		<position>1620.035034 -2493.245850 10.055531</position>
+		<rotation>-6.2532 0.0000 0.0000</rotation>
+		<model>16776</model>
+	</object>
+	
+	<object name="delux object (274)">
+		<position>1592.629028 -2483.149658 13.579777</position>
+		<rotation>-1.5900 0.0000 -6.2082</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (275)">
+		<position>1592.543579 -2487.289063 13.579803</position>
+		<rotation>-1.5900 0.0000 -6.2082</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (276)">
+		<position>1592.465576 -2495.495850 13.579803</position>
+		<rotation>-1.5900 0.0000 -6.2082</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (277)">
+		<position>1592.498657 -2491.359375 13.579803</position>
+		<rotation>-1.5750 0.0000 -6.2082</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (278)">
+		<position>1592.305298 -2503.658447 13.579803</position>
+		<rotation>-1.5900 0.0000 -6.2082</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (279)">
+		<position>1592.373779 -2499.643066 13.580938</position>
+		<rotation>-1.5900 0.0000 -6.2082</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (280)">
+		<position>1592.221802 -2507.758057 13.579803</position>
+		<rotation>-1.5900 0.0000 -6.2082</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (281)">
+		<position>1965.642212 -2490.898926 15.039080</position>
+		<rotation>-3.0925 -0.0150 -3.8682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (282)">
+		<position>1957.104492 -2491.669434 15.545273</position>
+		<rotation>-3.0925 -0.0150 -5.4732</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (283)">
+		<position>1986.605225 -2491.320068 14.539118</position>
+		<rotation>-3.0925 -0.0150 -5.4732</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (284)">
+		<position>1978.776611 -2490.049561 14.639120</position>
+		<rotation>-3.0925 -0.0150 -3.8232</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (285)">
+		<position>1972.969727 -2491.344482 14.539118</position>
+		<rotation>-3.0925 -0.0150 -5.4732</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (286)">
+		<position>1951.302246 -2490.500000 15.939119</position>
+		<rotation>-6.1807 -0.0150 -5.4732</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (287)">
+		<position>1945.339478 -2491.143311 14.539118</position>
+		<rotation>-6.1807 -0.0150 -4.1682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (288)">
+		<position>1938.462769 -2491.116699 14.539118</position>
+		<rotation>-6.1807 -0.0150 -5.4732</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (289)">
+		<position>1931.069580 -2490.837646 14.539118</position>
+		<rotation>-6.1807 -0.0150 -4.0632</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (290)">
+		<position>1922.615723 -2489.458984 15.439104</position>
+		<rotation>-6.1807 -0.0150 -5.4732</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (291)">
+		<position>1762.401001 -2604.422119 22.842506</position>
+		<rotation>-3.1729 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (292)">
+		<position>1729.223999 -2604.717285 33.878078</position>
+		<rotation>-3.1729 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (293)">
+		<position>1771.175171 -2604.290283 20.128492</position>
+		<rotation>-3.1729 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (294)">
+		<position>1749.641479 -2604.833740 26.789265</position>
+		<rotation>-3.1729 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (295)">
+		<position>1669.739746 -2543.412354 39.439529</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>1225</model>
+	</object>
+	
+	<object name="delux object (296)">
+		<position>1669.777100 -2537.580322 39.439529</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>1225</model>
+	</object>
+	
+	<object name="delux object (297)">
+		<position>1669.749756 -2540.307373 39.439529</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>1225</model>
+	</object>
+	
+	<object name="delux object (298)">
+		<position>1669.734741 -2546.771729 39.439529</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>1225</model>
+	</object>
+	
+	<object name="delux object (299)">
+		<position>1669.785400 -2549.819580 39.439529</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>1225</model>
+	</object>
+	
+	<object name="delux object (300)">
+		<position>2056.283447 -2555.017334 12.541348</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>3505</model>
+	</object>
+	
+	<object name="delux object (301)">
+		<position>2035.832397 -2576.201660 12.541348</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>3505</model>
+	</object>
+	
+	<object name="delux object (302)">
+		<position>2073.594238 -2537.811035 12.541348</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>3505</model>
+	</object>
+	
+	<object name="delux object (303)">
+		<position>2102.440918 -2535.424805 12.541348</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>3505</model>
+	</object>
+	
+	<object name="delux object (304)">
+		<position>1642.836060 -2547.337402 14.022999</position>
+		<rotation>-1.5610 0.0000 -6.1932</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (305)">
+		<position>1658.779419 -2547.288574 16.029963</position>
+		<rotation>-4.7110 0.0000 -5.9682</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (306)">
+		<position>1658.762451 -2538.598145 16.041815</position>
+		<rotation>-4.7110 0.0000 -5.9682</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (307)">
+		<position>1646.229004 -2547.298096 16.547010</position>
+		<rotation>-1.5694 0.0000 -5.9682</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (308)">
+		<position>1646.252441 -2538.802734 16.565464</position>
+		<rotation>-1.5694 0.0000 -5.9682</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (309)">
+		<position>1839.405518 -2414.158203 12.759804</position>
+		<rotation>-5.9232 0.0000 -0.1650</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (310)">
+		<position>1706.937866 -2542.070801 15.182156</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>16304</model>
+	</object>
+	
+	<object name="delux object (311)">
+		<position>1495.852905 -2640.930176 12.134298</position>
+		<rotation>-4.6632 -6.2232 0.0000</rotation>
+		<model>16061</model>
+	</object>
+	
+	<object name="delux object (312)">
+		<position>1451.650635 -2629.008789 38.291237</position>
+		<rotation>-0.7854 0.0000 -0.5700</rotation>
+		<model>8357</model>
+	</object>
+	
+	<object name="delux object (313)">
+		<position>1326.957397 -2753.744385 151.344360</position>
+		<rotation>-0.7854 0.0000 -0.5700</rotation>
+		<model>8357</model>
+	</object>
+	
+	<object name="delux object (314)">
+		<position>1207.157837 -2873.545654 259.920288</position>
+		<rotation>-0.7854 0.0000 -0.5700</rotation>
+		<model>8357</model>
+	</object>
+	
+	<object name="delux object (315)">
+		<position>1115.313843 -2964.850342 318.075775</position>
+		<rotation>-5.4978 0.0000 0.0000</rotation>
+		<model>8040</model>
+	</object>
+	
+	<object name="delux object (316)">
+		<position>1146.640991 -2933.511963 314.798004</position>
+		<rotation>-0.7854 0.0000 -0.7350</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (317)">
+		<position>1150.768311 -2929.564209 310.884705</position>
+		<rotation>-3.9270 0.0000 -5.8182</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (318)">
+		<position>1213.177612 -2884.415527 261.759338</position>
+		<rotation>-0.7854 0.0000 -0.8400</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (319)">
+		<position>1218.762573 -2878.846680 259.794189</position>
+		<rotation>-0.7854 0.0000 -0.4500</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (320)">
+		<position>1224.333130 -2873.276611 260.998108</position>
+		<rotation>-0.7854 0.0000 -0.0450</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (321)">
+		<position>1273.772827 -2806.707275 200.536285</position>
+		<rotation>-0.7854 0.0000 -0.5250</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (322)">
+		<position>1279.217407 -2801.282959 200.809509</position>
+		<rotation>-0.7854 0.0000 -0.1950</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (323)">
+		<position>1284.477783 -2796.029053 203.770874</position>
+		<rotation>-0.7854 0.0000 -6.1332</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (324)">
+		<position>1288.708252 -2791.817383 209.117050</position>
+		<rotation>-0.7854 0.0000 -5.7882</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (325)">
+		<position>1400.166260 -2700.262939 97.343025</position>
+		<rotation>-2.3385 -3.1800 -0.0150</rotation>
+		<model>17310</model>
+	</object>
+	
+	<object name="delux object (326)">
+		<position>1425.470581 -2635.080322 56.561249</position>
+		<rotation>-2.3385 -3.1800 -0.0150</rotation>
+		<model>17310</model>
+	</object>
+	
+	<object name="delux object (327)">
+		<position>1351.614868 -2729.225098 199.858780</position>
+		<rotation>-5.4978 0.0000 0.0000</rotation>
+		<model>18450</model>
+	</object>
+	
+	<object name="delux object (328)">
+		<position>1407.157593 -2673.685303 199.845581</position>
+		<rotation>-5.4978 0.0000 0.0000</rotation>
+		<model>18450</model>
+	</object>
+	
+	<object name="delux object (329)">
+		<position>1434.583740 -2646.212646 200.689453</position>
+		<rotation>-0.7854 0.0000 -0.0600</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (330)">
+		<position>1522.119751 -2628.015625 19.464361</position>
+		<rotation>-3.1500 0.0000 -5.8332</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (331)">
+		<position>1522.079224 -2632.179932 26.059635</position>
+		<rotation>-3.1500 0.0000 -5.5182</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (332)">
+		<position>1522.073242 -2634.026855 33.603714</position>
+		<rotation>-3.1500 0.0000 -5.1882</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (333)">
+		<position>1522.105103 -2633.397217 41.566936</position>
+		<rotation>-3.1500 0.0000 -4.8732</rotation>
+		<model>1632</model>
+	</object>
+	
+	<object name="delux object (334)">
+		<position>1622.536377 -2587.384277 14.546875</position>
+		<rotation>-3.1729 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (335)">
+		<position>1596.057129 -2587.556641 14.546875</position>
+		<rotation>-3.1729 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (336)">
+		<position>1595.693970 -2598.740723 14.696873</position>
+		<rotation>-3.1729 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (337)">
+		<position>1570.041870 -2587.722656 14.546875</position>
+		<rotation>-3.1429 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (338)">
+		<position>1622.183838 -2598.584229 14.696873</position>
+		<rotation>-3.1729 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (339)">
+		<position>1546.552734 -2586.216797 14.546875</position>
+		<rotation>-3.1729 -0.0150 -6.2682</rotation>
+		<model>3851</model>
+	</object>
+	
+	<object name="delux object (340)">
+		<position>1492.464966 -2610.385498 12.271996</position>
+		<rotation>-3.9270 0.0000 -0.2250</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (341)">
+		<position>1486.314087 -2604.242676 12.277994</position>
+		<rotation>-3.9270 0.0000 -0.2250</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (342)">
+		<position>1480.180908 -2598.105225 12.274298</position>
+		<rotation>-3.9270 0.0000 -0.2250</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (343)">
+		<position>1474.242798 -2592.025879 12.271980</position>
+		<rotation>-3.9270 0.0000 -0.2250</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (344)">
+		<position>1489.022827 -2613.836182 13.977276</position>
+		<rotation>-3.9270 0.0000 -6.1932</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (345)">
+		<position>1482.873291 -2607.687744 13.973618</position>
+		<rotation>-3.9270 0.0000 -6.1932</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (346)">
+		<position>1476.793945 -2601.611572 13.971985</position>
+		<rotation>-3.9270 0.0000 -6.1932</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (347)">
+		<position>1470.756592 -2595.568359 13.971985</position>
+		<rotation>-3.9270 0.0000 -6.1932</rotation>
+		<model>1655</model>
+	</object>
+	
+	<object name="delux object (348)">
+		<position>2147.217773 -2587.222656 25.552778</position>
+		<rotation>-4.7532 0.0000 0.0000</rotation>
+		<model>8618</model>
+	</object>
+	
+	<object name="delux object (349)">
+		<position>2094.278564 -2633.392334 12.600760</position>
+		<rotation>-6.0882 0.0000 0.0000</rotation>
+		<model>2898</model>
+	</object>
+	
+	<object name="delux object (350)">
+		<position>2092.407959 -2631.352295 12.578382</position>
+		<rotation>-2.8332 0.0000 0.0000</rotation>
+		<model>2985</model>
+	</object>
+	
+	<object name="delux object (351)">
+		<position>2094.833496 -2635.185547 13.906953</position>
+		<rotation>0.0000 0.0000 0.0000</rotation>
+		<model>3092</model>
+	</object>
+	
+</map>
+

@@ -1,0 +1,26 @@
+Multistunt Version 1.0:
+_____________
+	+ Login Camera hinzugef.
+	+ Obst hinzugef.
+	+	- Aepfel, Birnen, Bananen und Kirschen
+	+	- Neue Waehrung auf Multistunt
+	+	- Obstanzeige hinzgef.
+	+ Blips auf Map hinzugef.
+	+ /pay hinzugef.
+	+	- Unterstuetzt Suchfunktion + 6 Items
+	+ Aiport Map eingefuegt
+	+ Lift erstellt
+	+ Spawnpunkt geaendert
+	+ Login-Cam geaendert
+	+ 4 Stunts hinzugefuegt
+	+ Sound und Info hinzugef.
+	+ Reward hinzugef.
+	+ Autologin und Passwortspeicherung beim Einloggen hinzugef.
+	+	+ Nur Autologin, wenn Serial und IP Identisch mit der aus der Datenbank ist
+	+ Bugfixx 1
+	+ 3 Neue Stunts hinzugef.
+	+ Auto-Respawn beim Teleportieren zu Stunts(Jede 5 Sekunden moeglich)
+	+ Auto wird nun Mitgeportet
+
+Todo:
+Mittel Finden, wie man Illegales Verbreiten entfernen kann

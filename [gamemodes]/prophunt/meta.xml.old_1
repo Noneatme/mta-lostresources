@@ -1,0 +1,88 @@
+<meta>
+    <info author="Noneatme" type="gamemode" version="1.0.0" />
+    
+    <!--  SHARED -->
+    	<!--  CLASSES -->
+    	<script src="shared/shared.utils.class.lua" type="shared" />
+    	
+    <!-- SERVER SIDE FILES -->
+    	<!-- CLASSES -->
+    		<!--  MySQL and Logger -->
+    		<script src="server/mysql/CLogger.lua" type="server" />
+    		<script src="server/mysql/CAntiInjection.lua" type="server" />
+    		<script src="server/mysql/CConnectionManager.lua" type="server" />
+    	
+    	
+    		
+    		<!--  Maps -->
+    		<script src="server/maps/CProphunt_Objects.lua" type="server" />
+    		<script src="server/maps/CMapLoader.lua" type="server" />
+    		
+    		<!--  Lobby -->
+    		<script src="server/CLobbyManager.lua" type="server" />
+    		<script src="server/CLobby.lua" type="server" />
+    		
+    		<!--  Elements -->
+    		<!--  Player   -->
+    		<script src="server/elements/CPlayer.lua" type="server" />
+    
+    	<!-- OBJECT CREATOR -->
+    	<script src="server/CObjectCreator.lua" type="server" />
+    
+    <!-- CLIENT SIDE FILES -->
+    	<!-- CLASSES -->
+    		<!--  Vars	 -->
+    		<script src="client/CVars.lua" type="client" />
+    		<script src="client/CRenderManager.lua" type="client" />
+    		<script src="client/CRenderVersion.lua" type="client" />
+    		<script src="client/CCursor.lua" type="client" />
+    		<script src="client/CFontManager.lua" type="client" />
+    		<script src="client/CSoundManager.lua" type="client" />
+    		
+    		<!--  Strings  -->
+    		<script src="client/strings/CStrings.lua" type="client" />
+    		<script src="client/strings/CLanguage.lua" type="client" />
+    		
+    		<!--  Main Menu -->
+    		<script src="client/mainmenu/CMainMenu_Wallpaper.lua" type="client" />
+    		<script src="client/mainmenu/CMainMenu_Buttons.lua" type="client" />
+    		
+    		<script src="client/mainmenu/CMainMenu_Gamelist.lua" type="client" />
+    		<script src="client/mainmenu/CMainMenu_Newgame.lua" type="client" />
+    		
+   			<script src="client/mainmenu/CMainMenu.lua" type="client" />
+    
+    	<!-- OBJECT CREATOR -->
+    	<script src="client/CObjectCreator.lua" type="client" />
+    
+    	
+    <!--  Custom Maps	-->
+    	<custommap src="server/maps/raw/prophunt-airport.map" />
+    
+    <!-- DOWNLOADABLE CONTENT -->
+    <file src="LICENSE.txt" />
+    
+    <!--  Fonts -->
+    	<file src="files/fonts/agency.ttf" />
+    
+    <!--  Sounds -->
+    	<file src="files/sounds/mainmenu/menu_focus.mp3" />
+    	<file src="files/sounds/mainmenu/menu_click.mp3" />
+    	
+    <!--  Images -->
+   		<file src="files/images/mainmenu/wp-1.jpg" /> 
+   		<file src="files/images/mainmenu/wp-2.jpg" /> 
+   		<file src="files/images/mainmenu/wp-3.jpg" /> 
+   		<file src="files/images/mainmenu/wp-4.jpg" /> 
+    	<file src="files/images/mainmenu/wp-5.jpg" /> 
+
+    	<file src="files/images/mainmenu/prophunt-1.png" /> 
+   		<file src="files/images/mainmenu/prophunt-2.png" /> 
+   		
+   		<file src="files/images/cursors/cursor_default.png" />
+   		
+   		<!--  Maps -->
+   		<file src="files/images/maps/prophunt-airport.jpg" />
+   		
+    <min_mta_version server="1.3.0-9.03739" client="1.3.2"></min_mta_version>
+</meta>

@@ -1,0 +1,35 @@
+<meta>
+    <info author="Noneatme" type="script" name="pointers" description="Usefull for RPG servers" version="1.0.0" />
+    
+    <!-- CLIENT SIDE FILES -->
+    <script src="client/CBlender.lua" type="client" />
+    <script src="client/CVector.lua" type="client" cache="false" />
+    <script src="client/util.colors.lua" type="client" cache="false" />
+    <script src="client/CDrawer.lua" type="client" cache="false" />
+    <script src="client/CPointer.lua" type="client" cache="false" />
+    
+    <!-- SERVER SIDE FILES -->
+    <script src="server/CPointer.lua" type="server" />
+    
+    <!-- DOWNLOADABLE CONTENT -->
+    <!-- IMAGES -->
+    <file src="files/images/ping_baseattacked.png" />
+    <file src="files/images/ping_danger.png" />
+    <file src="files/images/ping_minimap.png" />
+    <file src="files/images/ping_teleporting.png" />
+    <file src="files/images/ping_world.png" />
+    <file src="files/images/ping_kreis.png" />
+    
+    <!-- SOUNDS -->
+    <file src="files/sounds/ping_attack.mp3" />
+    <file src="files/sounds/ping_defense.mp3" />
+    <file src="files/sounds/ping_rune.mp3" />
+    <file src="files/sounds/ping_warning.mp3" />
+    <file src="files/sounds/ping.mp3" />
+    
+    <file src="files/sounds/map_start.mp3" />
+    <file src="files/sounds/map_write.mp3" />
+    
+    <file src="LICENSE.txt" />
+    <min_mta_version client="1.3.0-9.03931"></min_mta_version>
+</meta>

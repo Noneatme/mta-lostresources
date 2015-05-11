@@ -1,0 +1,17 @@
+<map edf:definitions="editor_main">
+    <object id="object (barrel1) (1)" doublesided="false" model="1218" interior="0" dimension="0" posX="-2722.7900390625" posY="2754.1799316406" posZ="179.33999633789" rotX="0" rotY="90" rotZ="34"></object>
+    <object id="object (barrel1) (2)" doublesided="false" model="1218" interior="0" dimension="0" posX="-2723.6599121094" posY="2753.5100097656" posZ="179.33999633789" rotX="0" rotY="90" rotZ="33.997192382813"></object>
+    <object id="object (cunt_rockgp2_17) (1)" doublesided="false" model="17035" interior="0" dimension="0" posX="-661.25" posY="-837.04998779297" posZ="91.400001525879" rotX="0" rotY="0" rotZ="340"></object>
+    <object id="object (cunt_rockgp2_) (1)" doublesided="false" model="17026" interior="0" dimension="0" posX="-686.619140625" posY="-833.859375" posZ="102.33999633789" rotX="0" rotY="0" rotZ="9.99755859375"></object>
+    <object id="object (cunt_rockgp2_) (2)" doublesided="false" model="17026" interior="0" dimension="0" posX="-704.36999511719" posY="-815.28002929688" posZ="102.33999633789" rotX="0" rotY="0" rotZ="9.99755859375"></object>
+    <object id="object (cunt_rockgp2_) (3)" doublesided="false" model="17026" interior="0" dimension="0" posX="-652.34997558594" posY="-694.79998779297" posZ="48.979999542236" rotX="0" rotY="0" rotZ="87.99755859375"></object>
+    <object id="object (cunt_rockgp2_) (4)" doublesided="false" model="17026" interior="0" dimension="0" posX="-588.0390625" posY="-746.529296875" posZ="42.860000610352" rotX="0" rotY="0" rotZ="87.994995117188"></object>
+    <object id="object (cunt_rockgp2_) (5)" doublesided="false" model="17026" interior="0" dimension="0" posX="-634.54998779297" posY="-677.05999755859" posZ="36.479999542236" rotX="0" rotY="0" rotZ="53.994995117188"></object>
+    <object id="object (cunt_rockgp2_) (6)" doublesided="false" model="17026" interior="0" dimension="0" posX="-604.51000976563" posY="-680.84002685547" posZ="29.229999542236" rotX="0" rotY="0" rotZ="53.992309570313"></object>
+    <object id="object (cunt_rockgp2_) (7)" doublesided="false" model="17026" interior="0" dimension="0" posX="-629.84997558594" posY="-694.22998046875" posZ="29.229999542236" rotX="0" rotY="0" rotZ="93.992309570313"></object>
+    <object id="object (cunt_rockgp2_) (8)" doublesided="false" model="17026" interior="0" dimension="0" posX="-570.45001220703" posY="-687.34002685547" posZ="29.229999542236" rotX="0" rotY="0" rotZ="43.988037109375"></object>
+    <object id="object (cunt_rockgp2_) (9)" doublesided="false" model="17026" interior="0" dimension="0" posX="-582.13000488281" posY="-729.96002197266" posZ="28.549999237061" rotX="0" rotY="0" rotZ="41.994995117188"></object>
+    <object id="object (cunt_rockgp2_) (10)" doublesided="false" model="17026" interior="0" dimension="0" posX="-684.96002197266" posY="-778.67999267578" posZ="79.400001525879" rotX="0" rotY="0" rotZ="101.98974609375"></object>
+    <object id="object (cunt_rockgp2_) (11)" doublesided="false" model="17026" interior="0" dimension="0" posX="-668.03002929688" posY="-746.15002441406" posZ="71.650001525879" rotX="0" rotY="0" rotZ="141.98608398438"></object>
+    <object id="object (kb_barrel_exp) (1)" doublesided="false" model="3057" interior="0" dimension="0" posX="-656.89001464844" posY="-825.23999023438" posZ="104.83999633789" rotX="0" rotY="0" rotZ="50"></object>
+</map>

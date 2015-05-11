@@ -1,0 +1,83 @@
+<meta>
+	<info author="Noneatme" version="1.0.0" type="gamemode" />
+	<!-- Includes -->
+	<include resource="realdriveby" />
+	<include resource="reload" />
+	<include resource="freecam" />
+	<include resource="deathpickups" />
+	
+
+	<!-- Engine files -->
+		<script src="engine/client/CSettings.lua" type="client" />
+		<script src="engine/server/CSettings.lua" type="server" />
+		
+		<script src="engine/CBoth.lua" type="shared" />
+		
+		<!-- Debug -->
+			<script src="engine/client/CDebug.lua" type="client" />
+	
+		<!-- Auswahl -->
+			<script src="engine/client/auswahl/CMain.lua" type="client" />
+			<script src="engine/server/auswahl/CMain.lua" type="server" />
+			
+		<!-- Render -->
+			<script src="engine/client/CHud.lua" type="client" />
+			
+		<!-- MAPS -->
+			<map src="maps/mafia.map" />
+		<!-- Fraktionen -->
+			<!-- Mafia -->
+			<script src="engine/factions/mafia/CCars.lua" type="server" />
+			
+			<!-- PD -->
+			<script src="engine/factions/police/CCars.lua" type="server" />
+		<!-- Bankrob -->
+			<script src="bankrob/client.lua" type="client" />
+			<script src="bankrob/server.lua" />
+			<map src="bankrob/map.map" />
+	<!-- Data files -->
+		<file src="files/sounds/intro.mp3" />
+		
+		<file src="files/images/waffen/0.png" />
+	    <file src="files/images/waffen/1.png" />
+	    <file src="files/images/waffen/2.png" />
+	    <file src="files/images/waffen/3.png" />
+	    <file src="files/images/waffen/4.png" />
+	    <file src="files/images/waffen/5.png" />
+	    <file src="files/images/waffen/6.png" />
+	    <file src="files/images/waffen/7.png" />
+	    <file src="files/images/waffen/8.png" />
+	    <file src="files/images/waffen/9.png" />
+	    <file src="files/images/waffen/10.png" />
+	    <file src="files/images/waffen/11.png" />
+	    <file src="files/images/waffen/12.png" />
+	    <file src="files/images/waffen/14.png" />
+	    <file src="files/images/waffen/15.png" />
+	    <file src="files/images/waffen/16.png" />
+	    <file src="files/images/waffen/17.png" />
+	    <file src="files/images/waffen/18.png" />
+	    <file src="files/images/waffen/22.png" />
+	    <file src="files/images/waffen/23.png" />
+	    <file src="files/images/waffen/24.png" />
+	    <file src="files/images/waffen/25.png" />
+	    <file src="files/images/waffen/26.png" />
+	    <file src="files/images/waffen/27.png" />
+	    <file src="files/images/waffen/28.png" />
+	    <file src="files/images/waffen/29.png" />
+	    <file src="files/images/waffen/30.png" />
+	    <file src="files/images/waffen/31.png" />
+	    <file src="files/images/waffen/32.png" />
+	    <file src="files/images/waffen/33.png" />
+	    <file src="files/images/waffen/34.png" />
+	    <file src="files/images/waffen/35.png" />
+	    <file src="files/images/waffen/36.png" />
+	    <file src="files/images/waffen/37.png" />
+	    <file src="files/images/waffen/38.png" />
+	    <file src="files/images/waffen/39.png" />
+	    <file src="files/images/waffen/41.png" />
+	    <file src="files/images/waffen/42.png" />
+	    <file src="files/images/waffen/43.png" />
+	    <file src="files/images/waffen/46.png" />
+	    <file src="files/images/waffen/ammunation.png" />
+	    <file src="files/images/waffen/unknow.png" />
+</meta>

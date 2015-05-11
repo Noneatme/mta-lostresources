@@ -1,0 +1,13 @@
+<meta>
+	<!-- INFO -->
+	<info author="MuLTi" type="misc" version="1.2.0" />
+	
+	<!-- CLIENT SIDE FILES -->
+	<script src="client.lua" type="client" />
+	
+	<!-- SERVER SIDE FILES -->
+	<script src="server.lua" type="server" />	
+	
+	<!-- DOWNLOADABLE CLIENT FILES -->
+	<file src="armed.mp3" />
+</meta>

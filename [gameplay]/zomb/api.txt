@@ -1,0 +1,10 @@
+Server Funktionen:
+	Zombie:New(float x, float y, float z, int model, int interior, int dim) -- Spawnt einen Zombie, und gibt das Objekt zurück.
+	spawnSomeZombies(float x, float y, element player) -- Spawnt ein paar Zombies an der angegeben Arena. player ist hier der sycronisierer, der die z-Position von der Koordinate dem Server übergibt.
+Server Events:
+	onZombieSpawn(object zombie)
+	onZombieWasted(object zombie, element killer)
+	onZombieAttack(object zombie, element attacker)
+	onZombieIdle(object zombie)
+	
+	

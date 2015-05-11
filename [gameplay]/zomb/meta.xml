@@ -1,0 +1,61 @@
+<meta>
+	<info author="Noneatme" type="script" version="1.0.0" />
+
+	<!-- Server files -->
+		<script src="server/CZombie.lua" type="server" />
+		<script src="server/CCreator.lua" type="server" />
+	
+	<!-- Client files -->
+		<script src="client/CSkins.lua" type="client" />
+		<script src="client/CZombie.lua" type="client" />
+		
+	<!-- Download files -->
+		<!-- Skins -->
+		<file src="files/skins/105.txd" />
+		<file src="files/skins/107.txd" />
+		<file src="files/skins/108.txd" />
+		<file src="files/skins/111.txd" />
+		<file src="files/skins/126.txd" />
+		<file src="files/skins/127.txd" />
+		<file src="files/skins/128.txd" />
+		<file src="files/skins/13.txd" />
+		<file src="files/skins/152.txd" />
+		<file src="files/skins/162.txd" />
+		<file src="files/skins/167.txd" />
+		<file src="files/skins/188.txd" />
+		<file src="files/skins/192.txd" />
+		<file src="files/skins/195.txd" />
+		<file src="files/skins/206.txd" />
+		<file src="files/skins/209.txd" />
+		<file src="files/skins/212.txd" />
+		<file src="files/skins/22.txd" />
+		<file src="files/skins/229.txd" />
+		<file src="files/skins/230.txd" />
+		<file src="files/skins/258.txd" />
+		<file src="files/skins/264.txd" />
+		<file src="files/skins/274.txd" />
+		<file src="files/skins/277.txd" />
+		<file src="files/skins/280.txd" />
+		<file src="files/skins/287.txd" />
+		<file src="files/skins/56.txd" />
+		<file src="files/skins/67.txd" />
+		<file src="files/skins/68.txd" />
+		<file src="files/skins/69.txd" />
+		<file src="files/skins/70.txd" />
+		<file src="files/skins/84.txd" />
+		<file src="files/skins/92.txd" />
+		<file src="files/skins/97.txd" />
+		
+		<file src="files/sounds/dead1.mp3" />
+		<file src="files/sounds/dead2.mp3" />
+		<file src="files/sounds/groawl1.mp3" />
+		<file src="files/sounds/groawl2.mp3" />
+		<file src="files/sounds/groawl3.mp3" />
+		<file src="files/sounds/player_dead.mp3" />
+		<file src="files/sounds/randale.mp3" />
+		
+		<!-- Exports -->
+		<export function="Zombie:New" type="server" />
+		<export function="spawnSomeZombies" type="server" />
+		
+</meta>

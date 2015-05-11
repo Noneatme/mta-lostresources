@@ -1,0 +1,183 @@
+--------------------------------
+|	MTA:The Walking Death		|
+|			KONZEPT				|
+|		 STRENG GEHEIM			|
+|		Versteht sich...		|
+|								|
+-------------------------------- 
+
+
+Sonderzeichen:
+___________________________________________________________
+Titel: 		Begin einer Auflistung
+- 			Aufzählungszeichen einer Auflistung
+->			Zurückzuführend, beachtend
+(?)			Unsicher, ob dieses Feature eingebaut wird
+___________________________________________________________
+
+Zombies:
+	- Anti Spawn Bereiche
+	- AI mit Erkennung
+		(Schleichen, Sichtbarkeit)
+		
+	- Laute geräusche locken Zombies an
+		- Darunter auch Laufen 
+		
+	- Erstellung bei starten des Servers
+	- Jede 10-20 Kooridnaten ein Zombie, solage er nicht im Wasser ist
+	- Zombies werden jede Stunde resettet(?)
+    - Radioaktive Zombies
+
+Bereiche:
+	- Radioaktive Bereiche
+		(Mit 2 Bereichen, Hochradioaktiv und Mittelmäßig)
+      -> Kann man nur Mit Gasmaske betreten
+	- Zombie Anti Spawn Bereiche
+		(Mit Feuer, das gecraftet werden kann)
+
+	(Am Besten per MySQL Tabelle)
+	
+Items:
+	- Geigerzähler
+	- Taschenlampe
+		- Zombies blendbar
+
+	- 3 Waffen ausruestbar
+	- Eine Granate ausrüstbar
+		(Darunter Leuchtgranate zur Ablenkung von Zombies, Multistunt dingens)
+
+	- Aufhebbare items:
+		- Patronen
+		- Materialien
+		- Holz
+		- Stahl
+		
+		- Autobatterie
+		- Normale Batterie
+		
+		- Handy
+		
+		- Schalldämpfer für Waffen
+		
+		Autoteile:
+			- Motor
+			- Reifen
+			- Chassic
+			
+		
+		Essen:
+			- Tüte Chips
+			- Salat
+			- Dose Bohnen
+		
+		Leben:
+			- Medi-Packs(25 HP)
+			- Spritzen(5 HP)
+		
+		Trinken:
+			- Wasser
+			- Kalter Tee
+		
+		Panzer:
+			- Brustpanzer mit 4 Qualitäten:
+				- Sehr gut
+				- Gut
+				- Mittel
+				- Schlecht
+			- Elektromagnet den man sich einpflanzen kann
+			
+		Waffen:
+			- Craftbar mit Materialien
+			- 9mm
+			- Shotgun
+			- Gewehr
+			- Und so Weiter
+			- Nehmen Platz im Inventar ein
+			
+Welt:
+	- Währung: Patronen
+	- Aufbaubare Unterkünfte
+	- Schliessfach
+	- Bei Tot verliert man keine Sachen, jedoch Patronen
+	
+	- Reset jeden Monat(?) Unklar
+	
+	- Zufällige Peds an Orten, die Items vergeben
+		- Bauer
+		- Techniker
+		- Obdachloser
+		- Und so weiter
+	
+Crafting-System:
+	- Schliessfach und so weiter Craftbar
+	- Waffen Craftbar
+	- Bretter und Zäune craftbar
+		(Interaction System)
+	- Feuer Craftbar, gillt als non-zombie-Bereich
+	- Radio zum Abspielen
+	- Dekorationen
+		- Möbel
+		- Pflanzen
+		- Liegen
+		- Regale
+		- Und so weiter
+	
+Head Up Display:
+	- 3 Waffen und Granate sichtbar
+	- Leben und Armor
+	- Ausdauerleiste
+	- Zeit & Patronen
+	
+Inventar:
+	- Brustpanzer und andere Sachen zur Verteidigung anlegbar
+	- Essen und Trinken
+	- Essen per Rechtsklick essbar
+	
+	- Click & Move Ansicht
+
+Statistiken:
+	- Statistiken
+	- Archievements
+
+Haus-System:
+	- Unterkunft als Spawnpunkt auswählbar
+	- Gang und Gruppensystem bei Unterkünften
+	
+Chatbox:
+	- Selber erstellbar
+	- Integrierung mit Gruppensystem
+	- Standartmäßig 4 Channel:
+		- System
+		- Help
+		- Gloal
+		- Local
+		
+Fahrzeuge:
+	- Baubar
+	- Benötigt:
+		- Viel Stahl
+		- Viel Erfahrung
+		- Teile wie Reifen, Motor, und so weiter
+	
+	- Wird Gespeichert per MySQL Datenbank
+	
+Sounds:
+	- Aufteilung
+	- Einstellbar
+	- Soundkategorien:
+		- Zombie Sounds
+		- Sound effects
+		- Musik(?) Für Radios vielleicht
+
+Spieler:
+	- Login & Logout
+	- Registrierung einmalig
+	- Accountsystem basiert auf E-Mail
+	- Position Save bei Logout
+	
+	- Können nicht von anderen Spielen getötet werden(?)
+		-> Können aber ein duell mit anderen Spielern starten
+		- Wo sie dann getötet werden können
+       - Koennen radioaktiv verseucht werden
+         -> Entweder von Zombies oder von Radioaktiven Bereichen
+		

@@ -1,0 +1,58 @@
+<map edf:definitions="editor_main">
+	<meta>
+		<info author='convertFFS.com' version='1.0' name='convertFFS map file' description='Converted by convertFFS' type='map' />
+	</meta>
+	<object id="delux object" model="10830" posX="-2093.32055700" posY="-2854.59106400" posZ="8.20986000" rotX="0.00000000" rotY="0.00000000" rotZ="-317.57904669" dimension="0" interior="0" />
+	<object id="delux object(1)" model="17068" posX="-2071.85009800" posY="-2849.71362300" posZ="0.86552100" rotX="0.00000000" rotY="0.00000000" rotZ="-1.71887339" dimension="0" interior="0" />
+	<object id="delux object(2)" model="17068" posX="-2072.49438500" posY="-2871.61279300" posZ="0.85471400" rotX="0.00000000" rotY="0.00000000" rotZ="-1.71887339" dimension="0" interior="0" />
+	<object id="delux object(3)" model="17068" posX="-2093.83837900" posY="-2849.31567400" posZ="1.21954500" rotX="0.00000000" rotY="0.00000000" rotZ="-1.71887339" dimension="0" interior="0" />
+	<object id="delux object(4)" model="17068" posX="-2094.51025400" posY="-2871.02148400" posZ="1.20873900" rotX="0.00000000" rotY="0.00000000" rotZ="-1.71887339" dimension="0" interior="0" />
+	<object id="delux object(5)" model="17068" posX="-2112.94140600" posY="-2845.28002900" posZ="0.56257500" rotX="0.00000000" rotY="0.00000000" rotZ="-1.71887339" dimension="0" interior="0" />
+	<object id="delux object(6)" model="17068" posX="-2113.61377000" posY="-2867.14453100" posZ="0.56057600" rotX="0.00000000" rotY="0.00000000" rotZ="-1.71887339" dimension="0" interior="0" />
+	<object id="delux object(7)" model="3187" posX="-2128.37573200" posY="-2794.54834000" posZ="11.00511900" rotX="0.00000000" rotY="0.00000000" rotZ="-303.74784551" dimension="0" interior="0" />
+	<object id="delux object(8)" model="710" posX="-2119.73608400" posY="-2829.10522500" posZ="15.72379500" rotX="0.00000000" rotY="0.00000000" rotZ="0.00000000" dimension="0" interior="0" />
+	<object id="delux object(9)" model="710" posX="-2064.47851600" posY="-2831.80200200" posZ="16.88666900" rotX="0.00000000" rotY="0.00000000" rotZ="0.00000000" dimension="0" interior="0" />
+	<object id="delux object(10)" model="8644" posX="-2092.32885700" posY="-2830.46069300" posZ="16.27481500" rotX="0.00000000" rotY="0.00000000" rotZ="-67.50015784" dimension="0" interior="0" />
+	<object id="delux object(11)" model="1655" posX="-2137.50463900" posY="-2931.02148400" posZ="0.61512800" rotX="0.00000000" rotY="0.00000000" rotZ="-273.43837815" dimension="0" interior="0" />
+	<object id="delux object(12)" model="1655" posX="-2048.92968800" posY="-2926.89013700" posZ="0.55333900" rotX="0.00000000" rotY="0.00000000" rotZ="-90.00021046" dimension="0" interior="0" />
+	<object id="delux object(13)" model="1655" posX="-2044.17968800" posY="-2926.90136700" posZ="3.44812500" rotX="-344.53098137" rotY="0.00000000" rotZ="-90.00021046" dimension="0" interior="0" />
+	<object id="delux object(14)" model="1681" posX="-2032.20666500" posY="-2925.83593800" posZ="6.16608300" rotX="0.00000000" rotY="0.00000000" rotZ="0.00000000" dimension="0" interior="0" />
+	<object id="delux object(15)" model="1655" posX="-2012.70471200" posY="-2927.91357400" posZ="1.15264600" rotX="0.00000000" rotY="0.00000000" rotZ="-270.00063138" dimension="0" interior="0" />
+	<object id="delux object(16)" model="1655" posX="-2017.08898900" posY="-2927.89453100" posZ="4.02703600" rotX="-340.23379790" rotY="0.00000000" rotZ="-270.00063138" dimension="0" interior="0" />
+	<object id="delux object(17)" model="8881" posX="-2183.38842800" posY="-2925.46752900" posZ="3.22049700" rotX="0.00000000" rotY="-357.42253176" rotZ="-337.50078922" dimension="0" interior="0" />
+	<object id="delux object(18)" model="8493" posX="-2022.32995600" posY="-3012.58203100" posZ="11.81803100" rotX="-1.71887339" rotY="-37.81521448" rotZ="-236.32790176" dimension="0" interior="0" />
+	<object id="delux object(19)" model="1655" posX="-2028.32495100" posY="-2982.57299800" posZ="0.80146000" rotX="0.00000000" rotY="0.00000000" rotZ="-140.15693584" dimension="0" interior="0" />
+	<object id="delux object(20)" model="1655" posX="-2001.00000000" posY="-3017.47094700" posZ="1.01923300" rotX="0.00000000" rotY="0.00000000" rotZ="-320.15735676" dimension="0" interior="0" />
+	<object id="delux object(21)" model="13641" posX="-2108.18261700" posY="-2972.68627900" posZ="1.36587300" rotX="0.00000000" rotY="0.00000000" rotZ="-146.24747721" dimension="0" interior="0" />
+	<object id="delux object(22)" model="13641" posX="-2105.53662100" posY="-3012.98022500" posZ="1.30360700" rotX="0.00000000" rotY="0.00000000" rotZ="-296.95256606" dimension="0" interior="0" />
+	<object id="delux object(23)" model="13641" posX="-2067.02392600" posY="-2997.73364300" posZ="0.88699600" rotX="0.00000000" rotY="0.00000000" rotZ="-71.95203991" dimension="0" interior="0" />
+	<object id="delux object(24)" model="13641" posX="-2095.01001000" posY="-2989.96948200" posZ="1.34290300" rotX="0.00000000" rotY="0.00000000" rotZ="-116.95214514" dimension="0" interior="0" />
+	<object id="delux object(25)" model="1655" posX="-1978.17651400" posY="-2953.12158200" posZ="0.90169400" rotX="0.00000000" rotY="0.00000000" rotZ="-95.15683062" dimension="0" interior="0" />
+	<object id="delux object(26)" model="1655" posX="-1971.41467300" posY="-2953.73754900" posZ="4.73387900" rotX="-346.24985475" rotY="0.00000000" rotZ="-95.15683062" dimension="0" interior="0" />
+	<object id="delux object(27)" model="1655" posX="-1965.68042000" posY="-2954.25048800" posZ="10.36879200" rotX="-330.77999428" rotY="0.00000000" rotZ="-95.15683062" dimension="0" interior="0" />
+	<object id="delux object(28)" model="13592" posX="-1974.33227500" posY="-2886.47607400" posZ="9.54580600" rotX="0.00000000" rotY="0.00000000" rotZ="-315.00073661" dimension="0" interior="0" />
+	<object id="delux object(29)" model="13592" posX="-2157.30590800" posY="-2873.08691400" posZ="9.69836300" rotX="0.00000000" rotY="0.00000000" rotZ="-202.50047353" dimension="0" interior="0" />
+	<object id="delux object(30)" model="13592" posX="-2153.46118200" posY="-2990.49096700" posZ="8.98672700" rotX="0.00000000" rotY="0.00000000" rotZ="-123.74742459" dimension="0" interior="0" />
+	<object id="delux object(31)" model="5400" posX="-2081.50537100" posY="-2996.97729500" posZ="-5.80846200" rotX="0.00000000" rotY="-7.73493023" rotZ="-90.00021046" dimension="0" interior="0" />
+	<object id="delux object(32)" model="5400" posX="-2081.49292000" posY="-3006.51245100" posZ="-4.53990400" rotX="0.00000000" rotY="-7.73493023" rotZ="-90.00021046" dimension="0" interior="0" />
+	<object id="delux object(33)" model="5400" posX="-2081.50146500" posY="-3016.04858400" posZ="-3.26133600" rotX="0.00000000" rotY="-7.73493023" rotZ="-90.00021046" dimension="0" interior="0" />
+	<object id="delux object(34)" model="5400" posX="-2085.09741200" posY="-3107.04907200" posZ="-3.24269900" rotX="0.00000000" rotY="-7.73493023" rotZ="-270.00063138" dimension="0" interior="0" />
+	<object id="delux object(35)" model="5400" posX="-2085.05786100" posY="-3116.13989300" posZ="-4.49894300" rotX="0.00000000" rotY="-7.73493023" rotZ="-270.00063138" dimension="0" interior="0" />
+	<object id="delux object(36)" model="5400" posX="-2085.02392600" posY="-3124.61132800" posZ="-5.67990200" rotX="0.00000000" rotY="-7.73493023" rotZ="-270.00063138" dimension="0" interior="0" />
+	<object id="delux object(37)" model="1655" posX="-2144.69604500" posY="-2930.57836900" posZ="4.68826700" rotX="-346.24985475" rotY="0.00000000" rotZ="-273.43837815" dimension="0" interior="0" />
+	<object id="delux object(38)" model="1655" posX="-2150.67749000" posY="-2930.21582000" posZ="10.42980600" rotX="-331.63943098" rotY="0.00000000" rotZ="-273.43837815" dimension="0" interior="0" />
+	<object id="delux object(39)" model="16675" posX="-1907.52673300" posY="-3009.49072300" posZ="-1.73037000" rotX="0.00000000" rotY="-6.01605685" rotZ="-90.00021046" dimension="0" interior="0" />
+	<object id="delux object(40)" model="16675" posX="-1986.99707000" posY="-3107.82421900" posZ="-5.25637100" rotX="0.00000000" rotY="-6.01605685" rotZ="-90.00021046" dimension="0" interior="0" />
+	<object id="delux object(41)" model="16142" posX="-1901.85510300" posY="-2921.12426800" posZ="-3.68428600" rotX="0.00000000" rotY="0.00000000" rotZ="-66.48602255" dimension="0" interior="0" />
+	<object id="delux object(42)" model="16675" posX="-2190.10766600" posY="-3118.34863300" posZ="-0.69107800" rotX="0.00000000" rotY="-6.01605685" rotZ="-337.50078922" dimension="0" interior="0" />
+	<object id="delux object(43)" model="16675" posX="-2220.03759800" posY="-3010.37622100" posZ="-1.38384200" rotX="0.00000000" rotY="-6.01605685" rotZ="-337.50078922" dimension="0" interior="0" />
+	<object id="delux object(44)" model="16142" posX="-2019.67102100" posY="-2905.70629900" posZ="-13.94605400" rotX="0.00000000" rotY="0.00000000" rotZ="-19.21700445" dimension="0" interior="0" />
+
+	<!--
+	Objects converted: 45
+	Vehicles converted: 0
+	Vehicle models found: 0
+	----------------------
+	convertFFS converted your input in 0.39 seconds - Chuck Norris could have done it in 0.0062 seconds!
+	-->
+</map>

@@ -1,0 +1,5 @@
+<meta>
+	<script src="client.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+	<map src="maps/berg.map" dim="0" />
+</meta>

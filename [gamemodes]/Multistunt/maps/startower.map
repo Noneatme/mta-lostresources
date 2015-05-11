@@ -1,0 +1,6 @@
+<map edf:definitions="editor_main">
+    <object id="object (landjump2) (1)" doublesided="false" model="1634" interior="0" dimension="0" posX="1534.0999755859" posY="-1372.0999755859" posZ="329.5" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (landjump2) (2)" doublesided="false" model="1634" interior="0" dimension="0" posX="1537.6999511719" posY="-1372.0999755859" posZ="329.5" rotX="0" rotY="0" rotZ="179.99450683594"></object>
+    <object id="object (landjump2) (3)" doublesided="false" model="1634" interior="0" dimension="0" posX="1552.5999755859" posY="-1371.6999511719" posZ="329.5" rotX="0" rotY="0" rotZ="179.99450683594"></object>
+    <object id="object (landjump2) (4)" doublesided="false" model="1634" interior="0" dimension="0" posX="1556.6999511719" posY="-1371.6999511719" posZ="329.5" rotX="0" rotY="0" rotZ="179.99450683594"></object>
+</map>

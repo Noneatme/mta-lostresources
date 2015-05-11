@@ -1,0 +1,27 @@
+<help popup="yes">
+Custom Escalators - Made by Noneatme
+
+If you want to create custom escalators, press your F2 key on your keyboard.
+(Make sure that you are allowed to create custom escalators by checking the "enable_designer" variable in the Main.lua file. (It must be true))
+	
+Key shortcuts:
+    F - Enable/Disable mouse/fly mode
+    DEL - Delete selected escalator
+    
+To create a escalator, click on the upper left corner icon. You can click then on 2 world positions with your mouse, and your escalator is done.
+To modify the selected escalator, click on a specific icon on your left side.
+
+To output the escalators, click on the 'Output escalator' icon on the right side. 
+Verify that the escalator resource is started, if you want to add custom escalators to your own gamemode/resource.
+
+Be carefull: Many escalators can slow your system down.
+Escalators can only created client-side. The designer is not synchronized with other clients.
+It's recommended that you should create escalators in other resources.
+This is a very early version. Please report bugs to Noneatme@hotmail.de.
+
+This resource is free downloadable at community.mtasa.com.
+
+Credits:
+    Icons: www.iconfinder.com
+    Sounds: From the game 'Oni'
+</help>

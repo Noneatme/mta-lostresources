@@ -1,0 +1,20 @@
+Todo:
+_______________________
+	+ Carsystem
+	+ Bizsystem
+	+ Haussystem
+	+ Diverste Fahrzeuge an diversen Orten
+	+ Mehr Stunts
+	+ Mehr Maps
+	+ Flohmarkt
+	+ Freeroam-GUI
+	+ Offlinenachrichten
+	+ Speicherung der Koordinaten
+	+	- Nach Serverrestart
+	+	- Nach Gamecrash
+	+ Musik-Einbindung
+	+	- Aufstellbares Radio
+	+	- Autoradio
+	+ Helpmenue
+	+ Adminpanel
+	+ Skinladen

@@ -1,0 +1,38 @@
+<meta>
+	<info author="Noneatme" name="custom escalators" version="1.0.0" type="script" />
+	<include resource="freecam" />
+	
+	<!-- CLIENT SIDE FILES -->
+		<script src="client/CInfobox.lua" type="client" />
+		<script src="client/CEscalator.lua" type="client" />
+		<script src="client/CDesigner.lua" type="client" />
+		<script src="client/Main.lua" type="client" />
+		
+	<!-- SERVER SIDE FILES -->
+		<script src="server/Main.lua" type="server" />
+	
+	<!-- DOWNLOADABLE FILES -->
+		<file src="images/crosshair.png" />
+		<file src="images/stairs.png" />
+		<file src="images/arrowdown.png" />
+		<file src="images/start.png" />
+		<file src="images/end.png" />
+		<file src="images/umkehren.png" />
+		<file src="images/speed.png" />
+		<file src="images/steps.png" />
+		<file src="images/delete.png" />
+		<file src="images/save.png" />
+		<file src="images/load.png" />
+		
+		<file src="sounds/popup/SNDDautosave.mp3" />
+		
+		<file src="LICENSE.txt" />
+		
+	<!-- CONFIGS -->
+		<config src="help.xml" type="client" />
+		
+	<!-- EXPORTS -->
+		<export function="Escalator:New" type="client" />
+		<export function="Escalator:SetSpeed" type="client" />
+		<export function="Escalator:SetReverse" type="client" />
+</meta>

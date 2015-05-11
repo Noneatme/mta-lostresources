@@ -1,0 +1,25 @@
+<meta>
+	<info author="Noneatme" type="script" version="1.0.0" />
+	
+	<!--  SHARED -->
+		<!--  CLASSES -->
+		<script src="shared/shared.utils.class.lua" type="shared" />
+	<!-- SERVER SIDE FILES -->
+		<!-- CLASSES -->
+	
+	
+		<!-- OBJECT CREATOR -->
+		<script src="server/CObjectCreator.lua" type="server" />
+
+	<!-- CLIENT SIDE FILES -->
+		<!-- CLASSES -->
+		<!--  Strings  -->
+		<script src="client/strings/CStrings.lua" type="client" />
+		<script src="client/strings/CLanguage.lua" type="client" />
+	
+		<!-- OBJECT CREATOR -->
+		<script src="client/CObjectCreator.lua" type="client" />
+	
+	<!-- DOWNLOADABLE CONTENT -->
+		<file src="LICENSE.txt" />
+</meta>

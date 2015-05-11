@@ -1,0 +1,72 @@
+<meta>
+	<info author="Noneatme" type="gamemode" version="1.0.0" />
+	<!-- BOTH -->
+		<script src="both/CSettings.lua" type="client" />
+		<script src="both/CSettings.lua" type="server" />
+	<!-- CLIENT SIDE -->
+	
+	
+		<script src="client/CSettings.lua" type="client" />
+		<script src="client/CBall.lua" type="client" />
+		<script src="client/CMain.lua" type="client" />
+		<script src="client/CRender.lua" type="client" />
+		<script src="client/CSelection.lua" type="client" />
+		<script src="client/CImport.lua" type="client" />
+		<script src="client/CHud.lua" type="client" />
+		<script src="client/CInfobox.lua" type="client" />
+		<script src="client/CNametags.lua" type="client" />
+		
+		<script src="maploader/CClient.lua" type="client" />
+		
+		<script src="arrowpointer/CClient.lua" type="client" />
+		
+		<script src="sync/CBallSync_Client.lua" type="client" />
+		
+		<script src="arena/CClient.lua" type="client" />
+	<!-- SERVER SIDE -->
+		<script src="server/CSetting.lua" type="server" />
+		<script src="server/CBall.lua" type="server" />
+		<script src="server/CMain.lua" type="server" />
+		
+		<script src="maploader/CServer.lua" type="server" />
+		
+		<script src="arrowpointer/CServer.lua" type="server" />
+		
+		<script src="sync/CBallSync_Server.lua" type="server" />
+	<!-- MAPS -->
+		<script src="maps/CMain_Client.lua" type="client" />
+		<script src="maps/CMain_Server.lua" type="server" />
+		
+		<script src="maps/CBall_Reset.lua" type="client" />
+		
+		<script src="arena/CServer.lua" type="server" />
+		
+		<custommap src="maps/carball-arena1.map" />
+		<custommap src="maps/carball-arena2.map" />
+		<custommap src="maps/carball-arena3.map" />
+		
+		
+	<!-- FILES -->
+		<file src="data/ballcollision.col" />
+		<file src="data/balltexture.dff" />
+		<file src="data/balltexture.txd" />
+		
+		<file src="data/sounds/kick.mp3" />
+		<file src="data/sounds/popup/SNDDautosave.mp3" />
+		
+		<file src="data/images/selection1.jpg" />
+		<file src="data/images/selection2.jpg" />
+		<file src="data/images/selection3.jpg" />
+		
+		<file src="data/images/grass.jpg" />
+		<file src="data/images/ich.png" />
+		<file src="data/images/clock1.png" />
+		<file src="data/images/clock2.png" />
+		<file src="data/images/flag.png" />
+		
+		<file src="data/goal.col" />
+		<file src="data/goal.dff" />
+		<file src="data/goal.txd" />
+		
+		<file src="data/shaders/texshader.fx" />
+</meta>

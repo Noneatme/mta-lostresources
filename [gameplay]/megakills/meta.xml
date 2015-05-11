@@ -1,0 +1,39 @@
+<meta>
+	<info author="Noneatme" type="script" version="1.0.0" />
+	
+	<!-- SERVER SIDE FILES -->
+		<!-- CLASSES -->
+		<script src="server/CMegaKills.lua" type="server" />
+	
+		<!-- OBJECT CREATOR -->
+		<script src="server/CObjectCreator.lua" type="server" />
+
+	<!-- CLIENT SIDE FILES -->
+		<!-- CLASSES -->
+		<script src="client/CMegaKills.lua" type="client" />
+	
+		<!-- OBJECT CREATOR -->
+		<script src="client/CObjectCreator.lua" type="client" />
+	
+	<!-- DOWNLOADABLE CONTENT -->
+		<file src="LICENSE.txt" />
+		
+		<!--  Sounds -->
+	
+		<file src="files/sounds/announcer_1stblood_01.mp3" />
+		<file src="files/sounds/announcer_ownage_01.mp3" />
+		
+		<file src="files/sounds/announcer_kill_dominate_01.mp3" />
+		<file src="files/sounds/announcer_kill_double_01.mp3" />
+		<file src="files/sounds/announcer_kill_godlike_01.mp3" />
+		<file src="files/sounds/announcer_kill_holy_01.mp3" />
+		<file src="files/sounds/announcer_kill_mega_01.mp3" />
+		<file src="files/sounds/announcer_kill_monster_01.mp3" />
+		<file src="files/sounds/announcer_kill_rampage_01.mp3" />
+		<file src="files/sounds/announcer_kill_spree_01.mp3" />
+		<file src="files/sounds/announcer_kill_triple_01.mp3" />
+		<file src="files/sounds/announcer_kill_ultra_01.mp3" />
+		<file src="files/sounds/announcer_kill_unstop_01.mp3" />
+		<file src="files/sounds/announcer_kill_wicked_01.mp3" />
+			
+</meta>

@@ -1,0 +1,5 @@
+<meta>
+	<info author="noneatme" type="script" version="1.0.0" />
+	
+	<script src="client.lua" type="client" />
+</meta>

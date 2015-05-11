@@ -1,0 +1,186 @@
+<meta>
+	<info author="Noneatme" version="1.0.0" type="gamemode" />
+	<!-- INCLUDES -->
+	    <include resource="shader_dynamic_sky" />
+	<!-- SERVER SIDE FILES -->
+	
+	    <script src="server/shared.utils.class.lua" type="server" />
+		<script src="server/CSettings.lua" type="server" />
+		<script src="server/CConnectionManager.lua" type="server" />
+		<script src="server/CLogger.lua" type="server" />
+   		<script src="server/CAntiInjection.lua" type="server" />
+   		<script src="server/CChat.lua" type="server" />
+   		
+		<script src="server/CJoinHandler.lua" type="server" />
+		<script src="server/CPlayer.lua" type="server" />
+		<script src="server/CSpawnManager.lua" type="server" />
+		
+		<script src="server/CRegisterManager.lua" type="server" />
+		
+		<script src="server/CZombie.lua" type="server" />
+		<script src="server/CCreator.lua" type="server" />
+		
+		<!-- OBJECT CREATOR ABOVE EVERYTHING -->
+		<script src="server/CObjectCreator.lua" type="server" />
+		
+	<!-- CLIENT SIDE FILES -->
+		<script src="client/shared.utils.class.lua" type="client" />
+		<script src="client/CSettings.lua" type="client" />
+	
+		<script src="client/CLogger.lua" type="client" />
+	    <script src="client/CFontManager.lua" type="client" />
+		<script src="client/CSoundManager.lua" type="client" />
+		<script src="client/CCameraMover.lua" type="client" />
+		<script src="client/CRegisterFlyManager.lua" type="client" />
+		<script src="client/CRegisterManager.lua" type="client" />
+		<script src="client/CChat.lua" type="client" />
+		<script src="client/CImport.lua" type="client" />
+		
+		<script src="client/CZombie.lua" type="client" />
+		<script src="client/CZombieSkins.lua" type="client" />
+		<!-- RENDERS -->
+		  <script src="client/CRenderManager.lua" type="client" />
+		  
+		  <script src="client/CRenderCursor.lua" type="client" />
+		  <script src="client/CRenderHUD.lua" type="client" />
+		  
+		<!-- GUI CLASSES -->
+		    <script src="client/CGuis.lua" type="client" />
+		    <script src="client/CGOptionBox.lua" type="client" />
+		    <script src="client/CGMessageBox.lua" type="client" />
+		    <script src="client/CGRegisterBox.lua" type="client" />
+		    
+		    
+		<!-- OBJECT CREATOR -->
+			<script src="client/CObjectCreator.lua" type="client" />
+			
+	<!-- DOWNLOADABLE CONTENT -->
+		<!-- Fonts -->
+			<file src="files/fonts/Arimo.ttf" />
+		
+		<!-- Images -->
+			<file src="files/images/aero-title.png" />
+			<file src="files/images/cursor.png" />
+			
+			<file src="files/images/armor.png" />
+			<file src="files/images/hp.png" />
+			<file src="files/images/sivert.png" />
+			<file src="files/images/crosshair.png" />
+			
+			<!-- Weapons -->
+				<file src="files/images/weapons/22.png" />
+				<file src="files/images/weapons/23.png" />
+				<file src="files/images/weapons/24.png" />
+				<file src="files/images/weapons/25.png" />
+				<file src="files/images/weapons/26.png" />
+				<file src="files/images/weapons/27.png" />
+				<file src="files/images/weapons/28.png" />
+				<file src="files/images/weapons/29.png" />
+				<file src="files/images/weapons/30.png" />
+				<file src="files/images/weapons/31.png" />
+				<file src="files/images/weapons/32.png" />
+				<file src="files/images/weapons/33.png" />
+				<file src="files/images/weapons/34.png" />
+				<file src="files/images/weapons/35.png" />
+				<file src="files/images/weapons/36.png" />
+				<file src="files/images/weapons/grenade.png" />
+				
+			<!-- Icons -->
+				<file src="files/images/icons/accept.png" />
+				<file src="files/images/icons/square.png" />
+				<file src="files/images/icons/trash.png" />
+
+		<!-- Sounds -->
+			<file src="files/sounds/meep.mp3" />
+			<file src="files/sounds/sucess.mp3" />
+			<file src="files/sounds/dead1.mp3" />
+			<file src="files/sounds/dead2.mp3" />
+			<file src="files/sounds/groawl1.mp3" />
+			<file src="files/sounds/groawl2.mp3" />
+			<file src="files/sounds/groawl3.mp3" />
+			<file src="files/sounds/player_dead.mp3" />
+			<file src="files/sounds/randale.mp3" />
+			
+		<!-- Shaders -->
+			<file src="files/shaders/texture.fx" />
+		
+		<!-- Skins -->
+			<file src="files/skins/105.txd" />
+			<file src="files/skins/107.txd" />
+			<file src="files/skins/108.txd" />
+			<file src="files/skins/111.txd" />
+			<file src="files/skins/126.txd" />
+			<file src="files/skins/127.txd" />
+			<file src="files/skins/128.txd" />
+			<file src="files/skins/13.txd" />
+			<file src="files/skins/152.txd" />
+			<file src="files/skins/162.txd" />
+			<file src="files/skins/167.txd" />
+			<file src="files/skins/188.txd" />
+			<file src="files/skins/192.txd" />
+			<file src="files/skins/195.txd" />
+			<file src="files/skins/206.txd" />
+			<file src="files/skins/209.txd" />
+			<file src="files/skins/212.txd" />
+			<file src="files/skins/22.txd" />
+			<file src="files/skins/229.txd" />
+			<file src="files/skins/230.txd" />
+			<file src="files/skins/258.txd" />
+			<file src="files/skins/264.txd" />
+			<file src="files/skins/274.txd" />
+			<file src="files/skins/277.txd" />
+			<file src="files/skins/280.txd" />
+			<file src="files/skins/287.txd" />
+			<file src="files/skins/56.txd" />
+			<file src="files/skins/67.txd" />
+			<file src="files/skins/68.txd" />
+			<file src="files/skins/69.txd" />
+			<file src="files/skins/70.txd" />
+			<file src="files/skins/84.txd" />
+			<file src="files/skins/92.txd" />
+			<file src="files/skins/97.txd" />
+		
+		<!-- Models -->
+			<!--<file src="files/models/Endor.txd" />
+			<file src="files/models/Endor.col" />
+			<file src="files/models/Endor.dff" />-->
+		
+			<file src="files/models/ak47.txd" />
+			<file src="files/models/ak47.dff" />
+			
+			<file src="files/models/m4.txd" />
+			<file src="files/models/m4.dff" />
+			
+	<!--		<file src="files/models/.txd />
+			<file src="files/models/.dff />
+			
+			<file src="files/models/.txd />
+			<file src="files/models/.dff />
+			
+			<file src="files/models/.txd />
+			<file src="files/models/.dff />
+			
+			<file src="files/models/.txd />
+			<file src="files/models/.dff />
+			
+			<file src="files/models/.txd />
+			<file src="files/models/.dff />
+			
+			<file src="files/models/.txd />
+			<file src="files/models/.dff />
+			
+			<file src="files/models/.txd />
+			<file src="files/models/.dff />
+			
+			<file src="files/models/.txd />
+			<file src="files/models/.dff />
+			
+			<file src="files/models/.txd />
+			<file src="files/models/.dff />
+			
+			<file src="files/models/.txd />
+			<file src="files/models/.dff />
+			
+			<file src="files/models/.txd />
+			<file src="files/models/.dff /> -->
+</meta>
